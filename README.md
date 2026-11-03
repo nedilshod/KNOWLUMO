@@ -10,6 +10,7 @@ Episode 01 delivery:
 - `output/episode01/CSCA_Math_01_Sets_Thumbnail_1280x720.png` — Episode 01 thumbnail.
 - `output/shorts/CSCA_Math_01_Sets_Shorts_1080x1920.mp4` — vertical quick-quiz Short/Reel.
 - `output/publication/COPY_PASTE_EN.md` — ready-to-copy YouTube and Instagram publication metadata.
+- `output/publication/STYLE_REFERENCE_RU.md` — visual style reference and adaptation notes in Russian.
 - `output/README_RU.md` — delivery notes and review checklist in Russian.
 
 The original previous-project archive is kept at the repository root, and its extracted sources are preserved under `sources/`. No YouTube or Instagram publication is automated here.
