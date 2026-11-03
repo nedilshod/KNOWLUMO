@@ -1,5 +1,5 @@
 Suggested title:
-3 Quick Set Questions: Intersection, Union & Membership | CSCA Math
+Think You Know Sets? 3 Quick Questions | CSCA Math
 
 Suggested description:
 A = { 1, 2, 3 } and B = { 2, 3, 4 }.
@@ -13,7 +13,7 @@ Independent educational material, not an official CSCA channel or an official CS
 #CSCAMath #Sets #MathShorts #Intersection #Union #Knowlumo
 
 Tags:
-CSCA Math, sets, set theory, intersection, union, Venn diagram, math shorts, math quiz, membership, A intersection B, A union B, exam prep, CSCA, Knowlumo, YouTube Shorts
+CSCA Math, sets, set theory, intersection, union, A ∩ B, A ∪ B, Venn diagram, math shorts, math quiz, membership, set notation, empty set, exam prep, CSCA, Knowlumo, YouTube Shorts
 
 Hashtags:
 #CSCAMath #Sets #MathShorts #Intersection #Union #Knowlumo

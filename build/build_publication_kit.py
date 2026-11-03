@@ -24,7 +24,7 @@ FONT_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
 HANDLE = "@Knowlumo"
 
-Y_LONG_TITLE = "CSCA Math #01: Sets Made Simple | Intersection, Union & Practice"
+Y_LONG_TITLE = "Sets Finally Make Sense: Intersection, Union, Venn Diagrams & Practice | CSCA Math #01"
 
 Y_LONG_DESCRIPTION = """Learn sets from the ground up: elements, membership, Venn diagrams, intersection, union, the empty set, and a worked practice question. This is CSCA Math Episode 01 — a full visual lesson with English narration and animated examples.
 
@@ -36,7 +36,7 @@ In this lesson you will:
 • avoid the “empty set is not {0}” trap
 • solve an original multiple-choice question step by step
 
-Chapters (approximate):
+Chapters (from the rendered lesson):
 00:00 The language of sets
 00:29 What is a set?
 01:03 Membership
@@ -55,7 +55,7 @@ If this helped, subscribe to Knowlumo for future visual lessons. Keep exploring,
 
 #CSCAMath #SetTheory #MathLessons #Knowlumo"""
 
-Y_LONG_TAGS = "CSCA Math, CSCA mathematics, CSCA exam, China Scholastic Competency Assessment, sets, set theory, elements of a set, membership symbol, Venn diagram, intersection, union, empty set, math lesson, math tutorial, exam prep, undergraduate math, beginner set theory, multiple choice math, Knowlumo"
+Y_LONG_TAGS = "CSCA Math, CSCA mathematics, CSCA exam, China Scholastic Competency Assessment, sets, set theory, sets and inequalities, set notation, elements of a set, membership symbol, Venn diagram, intersection, union, A intersection B, A union B, empty set, empty set vs zero, math lesson, math tutorial, exam prep, multiple choice math, set theory for beginners, visual math, Knowlumo"
 Y_LONG_HASHTAGS = "#CSCAMath #SetTheory #MathLessons #Knowlumo"
 Y_LONG_PINNED = """Welcome to Knowlumo — this is Episode 01 of our CSCA Math series.
 
@@ -63,7 +63,7 @@ Question for you: which felt trickier, intersection or union? Tell me below, and
 
 Independent educational material; not an official CSCA channel."""
 
-Y_SHORT_TITLE = "3 Quick Set Questions: Intersection, Union & Membership | CSCA Math"
+Y_SHORT_TITLE = "Think You Know Sets? 3 Quick Questions | CSCA Math"
 
 Y_SHORT_DESCRIPTION = """A = { 1, 2, 3 } and B = { 2, 3, 4 }.
 
@@ -75,13 +75,13 @@ Independent educational material, not an official CSCA channel or an official CS
 
 #CSCAMath #Sets #MathShorts #Intersection #Union #Knowlumo"""
 
-Y_SHORT_TAGS = "CSCA Math, sets, set theory, intersection, union, Venn diagram, math shorts, math quiz, membership, A intersection B, A union B, exam prep, CSCA, Knowlumo, YouTube Shorts"
+Y_SHORT_TAGS = "CSCA Math, sets, set theory, intersection, union, A ∩ B, A ∪ B, Venn diagram, math shorts, math quiz, membership, set notation, empty set, exam prep, CSCA, Knowlumo, YouTube Shorts"
 Y_SHORT_HASHTAGS = "#CSCAMath #Sets #MathShorts #Intersection #Union #Knowlumo"
 Y_SHORT_PINNED = """Answers: 1) { 2, 3 }  2) { 1, 2, 3, 4 }  3) No — 4 is in B only.
 
 Full lesson: CSCA Math Episode 01 on Knowlumo. No link is implied here."""
 
-IG_CAPTION = """3 set questions. Think you can get all three? 👇
+IG_CAPTION = """Think you know sets? Pause on #3 👇
 
 A = { 1, 2, 3 }
 B = { 2, 3, 4 }
@@ -114,14 +114,14 @@ Knowlumo is an independent educational channel, not affiliated with the CSCA org
 
 Handle: @Knowlumo"""
 
-YT_CHANNEL_KEYWORDS = "Knowlumo, visual learning, education, math lessons, mathematics explained, CSCA exam, CSCA mathematics, CSCA math, study in China, animated education, exam preparation, step-by-step learning"
+YT_CHANNEL_KEYWORDS = "Knowlumo, visual learning, education, learn step by step, math lessons, mathematics explained, science education, physics lessons, chemistry lessons, exam preparation, CSCA exam, CSCA mathematics, CSCA math, study in China, animated education"
 
 PLAYLIST_FULL = "CSCA Mathematics — Full Lessons"
 PLAYLIST_SHORT = "CSCA Math — Quick Quizzes"
 
 LAUNCH_POST = """Knowlumo is here.
 
-Episode 01 is live: Sets Made Simple. We start with the language of sets — elements, Venn diagrams, intersection, union, and a worked practice question.
+Episode 01 is live: Sets Finally Make Sense. We start with the language of sets — elements, Venn diagrams, intersection, union, and a worked practice question.
 
 A three-question quick quiz is also up for Shorts and Reels. Watch, pause, try it, then keep exploring one idea at a time.
 
@@ -146,6 +146,8 @@ def build_markdown():
         "",
         "All text below is English and ready to copy. Do not add dates, subscriber counts, contact details, URLs, or claims of official CSCA affiliation.",
         "",
+        "Video tags below belong to individual uploads. Channel keywords in section 4 describe the whole channel and are listed once.",
+        "",
         "---",
         "",
         "## 1. YouTube — full lesson",
@@ -162,6 +164,7 @@ def build_markdown():
         "Thumbnail: `CSCA_Math_01_Sets_Thumbnail_1280x720.png` or `.jpg`",
         f"Playlist: `{PLAYLIST_FULL}`",
         "Category: Education · Language: English",
+        "Chapters above were calculated from the rendered lesson audio, not guessed. Recheck them once in the YouTube player after upload.",
         "End screen / subscribe element: configure separately in YouTube Studio. The burned-in SUBSCRIBE card is static artwork, not a clickable YouTube feature.",
         "",
         "---",
@@ -208,7 +211,7 @@ def build_markdown():
         "",
     ]
     block(lines, "YouTube channel About", YT_ABOUT, "chars")
-    block(lines, "YouTube channel keywords", YT_CHANNEL_KEYWORDS, "chars")
+    block(lines, "YouTube channel keywords (channel-level, not video tags)", YT_CHANNEL_KEYWORDS, "chars")
     lines += [
         f"Playlist 1: `{PLAYLIST_FULL}`",
         f"Playlist 2: `{PLAYLIST_SHORT}`",
@@ -253,6 +256,7 @@ def build_video_metadata():
         f"Playlist: {PLAYLIST_FULL}",
         "Category: Education | Language: English",
         "",
+        "Chapters were calculated from the rendered lesson audio; recheck them in the YouTube player after upload.",
         "The SUBSCRIBE graphic in the outro is static artwork, not a clickable YouTube end screen.",
         "Configure real end screens separately in YouTube Studio after publication.",
         "Independent educational material; not an official CSCA channel.",
@@ -311,6 +315,7 @@ def verify():
         "instagram_caption": IG_CAPTION,
         "instagram_bio": IG_BIO,
         "youtube_about": YT_ABOUT,
+        "youtube_channel_keywords": YT_CHANNEL_KEYWORDS,
         "launch_post": LAUNCH_POST,
     }
     assert len(Y_LONG_TITLE) <= 100
@@ -319,6 +324,7 @@ def verify():
     assert len(Y_SHORT_DESCRIPTION) <= 5000
     assert len(Y_LONG_TAGS) <= 500
     assert len(Y_SHORT_TAGS) <= 500
+    assert len(YT_CHANNEL_KEYWORDS) <= 500
     assert len(IG_CAPTION) <= 2200
     assert len(IG_BIO) <= 150
     assert len(IG_HASHTAGS.split()) <= 30

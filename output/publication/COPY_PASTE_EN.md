@@ -4,19 +4,21 @@ Working handle on both platforms: `@Knowlumo`. This agent has not checked availa
 
 All text below is English and ready to copy. Do not add dates, subscriber counts, contact details, URLs, or claims of official CSCA affiliation.
 
+Video tags below belong to individual uploads. Channel keywords in section 4 describe the whole channel and are listed once.
+
 ---
 
 ## 1. YouTube — full lesson
 
 File: `output/episode01/CSCA_Math_01_Sets_Full_With_Outro.mp4`
 
-**Title** — 64 characters
+**Title** — 86 characters
 
 ```text
-CSCA Math #01: Sets Made Simple | Intersection, Union & Practice
+Sets Finally Make Sense: Intersection, Union, Venn Diagrams & Practice | CSCA Math #01
 ```
 
-**Description** — 1216 characters
+**Description** — 1229 characters
 
 ```text
 Learn sets from the ground up: elements, membership, Venn diagrams, intersection, union, the empty set, and a worked practice question. This is CSCA Math Episode 01 — a full visual lesson with English narration and animated examples.
@@ -29,7 +31,7 @@ In this lesson you will:
 • avoid the “empty set is not {0}” trap
 • solve an original multiple-choice question step by step
 
-Chapters (approximate):
+Chapters (from the rendered lesson):
 00:00 The language of sets
 00:29 What is a set?
 01:03 Membership
@@ -49,10 +51,10 @@ If this helped, subscribe to Knowlumo for future visual lessons. Keep exploring,
 #CSCAMath #SetTheory #MathLessons #Knowlumo
 ```
 
-**Tags (comma-separated)** — 292 characters
+**Tags (comma-separated)** — 375 characters
 
 ```text
-CSCA Math, CSCA mathematics, CSCA exam, China Scholastic Competency Assessment, sets, set theory, elements of a set, membership symbol, Venn diagram, intersection, union, empty set, math lesson, math tutorial, exam prep, undergraduate math, beginner set theory, multiple choice math, Knowlumo
+CSCA Math, CSCA mathematics, CSCA exam, China Scholastic Competency Assessment, sets, set theory, sets and inequalities, set notation, elements of a set, membership symbol, Venn diagram, intersection, union, A intersection B, A union B, empty set, empty set vs zero, math lesson, math tutorial, exam prep, multiple choice math, set theory for beginners, visual math, Knowlumo
 ```
 
 **Hashtags**
@@ -74,6 +76,7 @@ Independent educational material; not an official CSCA channel.
 Thumbnail: `CSCA_Math_01_Sets_Thumbnail_1280x720.png` or `.jpg`
 Playlist: `CSCA Mathematics — Full Lessons`
 Category: Education · Language: English
+Chapters above were calculated from the rendered lesson audio, not guessed. Recheck them once in the YouTube player after upload.
 End screen / subscribe element: configure separately in YouTube Studio. The burned-in SUBSCRIBE card is static artwork, not a clickable YouTube feature.
 
 ---
@@ -82,10 +85,10 @@ End screen / subscribe element: configure separately in YouTube Studio. The burn
 
 File: `output/shorts/CSCA_Math_01_Sets_Shorts_1080x1920.mp4`
 
-**Title** — 67 characters
+**Title** — 50 characters
 
 ```text
-3 Quick Set Questions: Intersection, Union & Membership | CSCA Math
+Think You Know Sets? 3 Quick Questions | CSCA Math
 ```
 
 **Description** — 570 characters
@@ -102,10 +105,10 @@ Independent educational material, not an official CSCA channel or an official CS
 #CSCAMath #Sets #MathShorts #Intersection #Union #Knowlumo
 ```
 
-**Tags (comma-separated)** — 170 characters
+**Tags (comma-separated)** — 180 characters
 
 ```text
-CSCA Math, sets, set theory, intersection, union, Venn diagram, math shorts, math quiz, membership, A intersection B, A union B, exam prep, CSCA, Knowlumo, YouTube Shorts
+CSCA Math, sets, set theory, intersection, union, A ∩ B, A ∪ B, Venn diagram, math shorts, math quiz, membership, set notation, empty set, exam prep, CSCA, Knowlumo, YouTube Shorts
 ```
 
 **Hashtags**
@@ -131,10 +134,10 @@ Related Video: after the full lesson is public or unlisted, attach it in YouTube
 
 Instagram has no separate title field. The first line of the caption acts as the title/hook.
 
-**Caption** — 629 characters
+**Caption** — 616 characters
 
 ```text
-3 set questions. Think you can get all three? 👇
+Think you know sets? Pause on #3 👇
 
 A = { 1, 2, 3 }
 B = { 2, 3, 4 }
@@ -200,10 +203,10 @@ Knowlumo is an independent educational channel, not affiliated with the CSCA org
 Handle: @Knowlumo
 ```
 
-**YouTube channel keywords** — 190 characters
+**YouTube channel keywords (channel-level, not video tags)** — 242 characters
 
 ```text
-Knowlumo, visual learning, education, math lessons, mathematics explained, CSCA exam, CSCA mathematics, CSCA math, study in China, animated education, exam preparation, step-by-step learning
+Knowlumo, visual learning, education, learn step by step, math lessons, mathematics explained, science education, physics lessons, chemistry lessons, exam preparation, CSCA exam, CSCA mathematics, CSCA math, study in China, animated education
 ```
 
 Playlist 1: `CSCA Mathematics — Full Lessons`
@@ -218,7 +221,7 @@ Playlist 2: `CSCA Math — Quick Quizzes`
 ```text
 Knowlumo is here.
 
-Episode 01 is live: Sets Made Simple. We start with the language of sets — elements, Venn diagrams, intersection, union, and a worked practice question.
+Episode 01 is live: Sets Finally Make Sense. We start with the language of sets — elements, Venn diagrams, intersection, union, and a worked practice question.
 
 A three-question quick quiz is also up for Shorts and Reels. Watch, pause, try it, then keep exploring one idea at a time.
 

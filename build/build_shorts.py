@@ -145,7 +145,7 @@ def build_audio_and_timeline():
         "total_duration": total,
         "fps": FPS,
         "resolution": [W, H],
-        "voice": "voice-00 (new English voice selected in this session; not claimed to be the old narrator)",
+        "voice": "voice-01 (closest female educational voice selected by the owner; not a clone of the original narrator)",
         "caption_alignment": "energy-envelope estimate per generated WAV; approximate, not ASR forced alignment",
         "segments": [{k: v for k, v in s.items() if k not in ("words",)} | {"local_words": s["words"]}
                      for s in SEGMENTS],
