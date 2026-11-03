@@ -1,0 +1,127 @@
+{
+  "status": "draft",
+  "episode": 2,
+  "title": "Subsets & Complements",
+  "target_duration": 300.0,
+  "fps": 30,
+  "resolution": [
+    1280,
+    720
+  ],
+  "voice": "voice-01 (owner-selected; not a clone of the source narrator)",
+  "tempo_adjustment": 1.055,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "SETS INSIDE SETS",
+      "start": 0.3,
+      "end": 30.021,
+      "duration": 29.721
+    },
+    {
+      "index": 2,
+      "title": "WHAT IS A SUBSET?",
+      "start": 30.171,
+      "end": 61.525,
+      "duration": 31.354
+    },
+    {
+      "index": 3,
+      "title": "PROPER SUBSETS",
+      "start": 61.675,
+      "end": 89.974,
+      "duration": 28.299
+    },
+    {
+      "index": 4,
+      "title": "THE TWO SYMBOLS",
+      "start": 90.124,
+      "end": 117.431,
+      "duration": 27.307
+    },
+    {
+      "index": 5,
+      "title": "COMPLEMENTS AND U",
+      "start": 117.581,
+      "end": 145.721,
+      "duration": 28.14
+    },
+    {
+      "index": 6,
+      "title": "THE VENN DIAGRAM",
+      "start": 145.871,
+      "end": 172.373,
+      "duration": 26.502
+    },
+    {
+      "index": 7,
+      "title": "SET DIFFERENCE",
+      "start": 172.523,
+      "end": 199.022,
+      "duration": 26.499
+    },
+    {
+      "index": 8,
+      "title": "PRACTICE QUESTION",
+      "start": 199.172,
+      "end": 238.574,
+      "duration": 39.402
+    },
+    {
+      "index": 9,
+      "title": "THE SOLUTION",
+      "start": 238.724,
+      "end": 266.156,
+      "duration": 27.432
+    },
+    {
+      "index": 10,
+      "title": "RECAP AND OUTRO",
+      "start": 266.306,
+      "end": 290.946,
+      "duration": 24.641
+    }
+  ],
+  "outro_start": 290.946,
+  "math": {
+    "U": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "A": [
+      1,
+      2,
+      3
+    ],
+    "B": [
+      2,
+      3,
+      4
+    ],
+    "A_subset_B": false,
+    "A_proper_subset_U": true,
+    "A_complement": [
+      4,
+      5,
+      6
+    ],
+    "A_minus_B": [
+      1
+    ],
+    "B_minus_A": [
+      4
+    ],
+    "B_subset_A": false,
+    "correct_option": "B"
+  },
+  "checks": {
+    "no_future_words": true,
+    "last_group_holds": true,
+    "full_decode": "run separately by verify script"
+  },
+  "published": false
+}

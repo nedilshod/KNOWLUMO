@@ -5,3 +5,5 @@ build/qc/
 build/*.log
 
 image-search/
+output/episode02/audio/tempo/
+output/episode02/audio/episode02_master.wav

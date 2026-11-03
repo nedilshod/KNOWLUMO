@@ -1,0 +1,40 @@
+Suggested title:
+Subsets & Complements Made Visual | CSCA Math #02
+
+Suggested description (draft):
+Learn subsets, proper subsets, universal sets, complements, and set difference with visual examples and one original practice question. This is CSCA Math Episode 02 — an independent English visual lesson from Knowlumo.
+
+In this lesson you will:
+• tell a subset from a proper subset
+• read the two containment symbols
+• find a complement inside a universal set
+• compare complement with set difference
+• solve an original multiple-choice question step by step
+
+Chapters (from the rendered draft):
+00:00 Sets Inside Sets
+00:30 What Is A Subset?
+01:01 Proper Subsets
+01:30 The Two Symbols
+01:57 Complements And U
+02:25 The Venn Diagram
+02:52 Set Difference
+03:19 Practice Question
+03:58 The Solution
+04:26 Recap And Outro
+04:50 Knowlumo outro
+
+This is independent educational material, not an official CSCA past-paper question and not an official CSCA channel. Exam content and university requirements can change; check the latest official syllabus and your intended university's requirements.
+
+If this helped, subscribe to Knowlumo for future visual lessons. Keep exploring, one idea at a time.
+
+#CSCAMath #SetTheory #Subsets #MathLessons #Knowlumo
+
+Tags (draft):
+CSCA Math, CSCA mathematics, CSCA exam, sets, set theory, subsets, proper subset, universal set, complement of a set, set difference, Venn diagram, set notation, math lesson, math tutorial, exam prep, visual math, Knowlumo
+
+Thumbnail: CSCA_Math_02_Subsets_Complements_Thumbnail_1280x720.png / .jpg
+Playlist: CSCA Mathematics — Full Lessons
+Category: Education | Language: English
+
+Status: five-minute draft, 300.00s, 1280x720, 30 FPS. Not published. No invented URL, no official-CSCA claim, no promise that the practice question appears on an exam.
