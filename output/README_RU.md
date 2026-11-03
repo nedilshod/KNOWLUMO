@@ -1,6 +1,6 @@
 # Комплект Episode 01 — Knowlumo
 
-Ветка: [`arena/da8b0093-knowlumo`](https://github.com/nedilshod/KNOWLUMO/tree/arena/da8b0093-knowlumo). Коммит загрузки: `454eddb`.
+Ветка: [`arena/da8b0093-knowlumo`](https://github.com/nedilshod/KNOWLUMO/tree/arena/da8b0093-knowlumo). Последний коммит ветки: `142a3fd`.
 
 ## Прямые ссылки GitHub
 
