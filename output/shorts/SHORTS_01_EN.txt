@@ -1,14 +1,28 @@
 Suggested title:
-3 Quick Set Questions | CSCA Math Shorts
+3 Quick Set Questions: Intersection, Union & Membership | CSCA Math
 
 Suggested description:
-A = { 1, 2, 3 } and B = { 2, 3, 4 }. Can you find A ∩ B, find A ∪ B, and decide whether 4 belongs to the intersection? Each question includes a short pause to think and a brief explanation of the answer.
+A = { 1, 2, 3 } and B = { 2, 3, 4 }.
 
-For definitions, more examples, and a worked practice problem, see the full CSCA Math Episode 01 lesson, “Sets Made Simple,” from Knowlumo.
+Can you find A ∩ B, find A ∪ B, and decide whether 4 belongs to the intersection? Each question gives you a short pause, then a quick visual explanation.
 
-The final card uses the real Episode 01 thumbnail. It is a stylized video card, not a clickable link inside the MP4, and no URL is shown. After the long video is public, a related video may be attached in YouTube Studio if the feature is available to the channel. For Instagram Reels, use the actual profile link or another platform-supported destination after publication.
+For definitions, more examples, Venn diagrams, and a worked practice problem, see the full CSCA Math Episode 01 lesson, “Sets Made Simple,” on Knowlumo.
+
+Independent educational material, not an official CSCA channel or an official CSCA question. Check the latest official syllabus and your university’s requirements.
+
+#CSCAMath #Sets #MathShorts #Intersection #Union #Knowlumo
+
+Tags:
+CSCA Math, sets, set theory, intersection, union, Venn diagram, math shorts, math quiz, membership, A intersection B, A union B, exam prep, CSCA, Knowlumo, YouTube Shorts
 
 Hashtags:
 #CSCAMath #Sets #MathShorts #Intersection #Union #Knowlumo
 
-No publication date, channel URL, subscriber count, or official CSCA affiliation is claimed.
+Pinned comment:
+Answers: 1) { 2, 3 }  2) { 1, 2, 3, 4 }  3) No — 4 is in B only.
+
+Full lesson: CSCA Math Episode 01 on Knowlumo. No link is implied here.
+
+No URL is burned into the video. The final card is a stylized graphic.
+After the full lesson is public, attach it as a Related Video in YouTube Studio if available.
+Independent educational material; not an official CSCA channel.

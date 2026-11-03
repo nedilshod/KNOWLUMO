@@ -1,6 +1,6 @@
 # Комплект Episode 01 — Knowlumo
 
-Ветка: [`arena/da8b0093-knowlumo`](https://github.com/nedilshod/KNOWLUMO/tree/arena/da8b0093-knowlumo). Основной коммит сборки: `454eddb`; последующие коммиты обновляли только ссылки и текст README.
+Ветка: [`arena/da8b0093-knowlumo`](https://github.com/nedilshod/KNOWLUMO/tree/arena/da8b0093-knowlumo). Основной коммит сборки: `454eddb`. В последующих коммитах добавлены ссылки, публикационный комплект и ранее проигнорированные исходные MP4 из архива.
 
 ## Прямые ссылки GitHub
 
@@ -8,6 +8,7 @@
 - [Обложка PNG](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/episode01/CSCA_Math_01_Sets_Thumbnail_1280x720.png) · [JPG](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/episode01/CSCA_Math_01_Sets_Thumbnail_1280x720.jpg)
 - [Вертикальный Shorts/Reels — просмотр](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/shorts/CSCA_Math_01_Sets_Shorts_1080x1920.mp4) · [прямой файл](https://github.com/nedilshod/KNOWLUMO/raw/refs/heads/arena/da8b0093-knowlumo/output/shorts/CSCA_Math_01_Sets_Shorts_1080x1920.mp4)
 - [Метаданные длинного видео](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/episode01/VIDEO_01_EN.txt) · [метаданные Shorts](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/shorts/SHORTS_01_EN.txt) · [тайминги](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/shorts/timeline.json)
+- [Публикационный комплект для YouTube и Instagram](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/publication/COPY_PASTE_EN.md) · [инструкция запуска на русском](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/publication/LAUNCH_NOTES_RU.md)
 - [Исходный урок без изменений](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/sources/Youtube-arena-01b47ded-youtube/csca/episode01/output/CSCA_Math_01_Sets_Full.mp4) · [архив предыдущего проекта](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/Youtube-arena-01b47ded-youtube.zip)
 - [Локальная страница-превью](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/index.html)
 
@@ -39,8 +40,11 @@
 
 ## Метаданные
 
-- `episode01/VIDEO_01_EN.txt` — английские название, описание, таймкоды и примечания для длинного видео.
-- `shorts/SHORTS_01_EN.txt` — английские название, описание и хэштеги для короткого видео.
+- `episode01/VIDEO_01_EN.txt` — английские название, описание, таймкоды, теги и примечания для длинного видео.
+- `shorts/SHORTS_01_EN.txt` — английские название, описание, теги и хэштеги для короткого видео.
+- `publication/COPY_PASTE_EN.md` — финальные тексты для YouTube и Instagram: названия, описания, теги, хэштеги, bio, About, плейлисты, закреплённые комментарии и первый анонс.
+- `publication/LAUNCH_NOTES_RU.md` — порядок запуска, ограничения полей и чек-лист ручных проверок.
+- `publication/instagram_reels_cover_1080x1920.png` и `instagram_feed_cover_1080x1080.png` — вертикальная и квадратная обложки для Reels/ленты.
 - `index.html` — локальная страница-превью с видео и обложкой.
 
 ## Как собиралось

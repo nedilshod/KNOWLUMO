@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "handle": "@Knowlumo",
+  "handle_availability_checked": false,
+  "accounts_created_or_reserved_by_agent": false,
+  "videos_published_by_agent": false,
+  "character_counts": {
+    "youtube_long_title": 64,
+    "youtube_long_description": 1216,
+    "youtube_long_tags": 292,
+    "youtube_long_pinned": 266,
+    "youtube_short_title": 67,
+    "youtube_short_description": 570,
+    "youtube_short_tags": 170,
+    "youtube_short_pinned": 137,
+    "instagram_caption": 629,
+    "instagram_bio": 115,
+    "youtube_about": 726,
+    "launch_post": 318
+  },
+  "constraints": {
+    "youtube_title_max": 100,
+    "youtube_description_max": 5000,
+    "youtube_tags_max": 500,
+    "instagram_caption_max": 2200,
+    "instagram_bio_max": 150,
+    "instagram_hashtags_max": 30
+  }
+}
