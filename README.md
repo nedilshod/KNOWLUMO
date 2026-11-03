@@ -2,6 +2,8 @@
 
 English-language educational video project. This repository stores source material, build scripts, and ready-to-review delivery files for the CSCA Mathematics series.
 
+Delivery branch: [`arena/da8b0093-knowlumo`](https://github.com/nedilshod/KNOWLUMO/tree/arena/da8b0093-knowlumo).
+
 Episode 01 delivery:
 
 - `output/episode01/CSCA_Math_01_Sets_Full_With_Outro.mp4` — full lesson with the new Knowlumo outro.

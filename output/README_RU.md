@@ -1,6 +1,15 @@
 # Комплект Episode 01 — Knowlumo
 
-Ветка: `arena/da8b0093-knowlumo`.
+Ветка: [`arena/da8b0093-knowlumo`](https://github.com/nedilshod/KNOWLUMO/tree/arena/da8b0093-knowlumo). Коммит загрузки: `454eddb`.
+
+## Прямые ссылки GitHub
+
+- [Обновлённое длинное видео — просмотр](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/episode01/CSCA_Math_01_Sets_Full_With_Outro.mp4) · [прямой файл](https://github.com/nedilshod/KNOWLUMO/raw/refs/heads/arena/da8b0093-knowlumo/output/episode01/CSCA_Math_01_Sets_Full_With_Outro.mp4)
+- [Обложка PNG](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/episode01/CSCA_Math_01_Sets_Thumbnail_1280x720.png) · [JPG](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/episode01/CSCA_Math_01_Sets_Thumbnail_1280x720.jpg)
+- [Вертикальный Shorts/Reels — просмотр](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/shorts/CSCA_Math_01_Sets_Shorts_1080x1920.mp4) · [прямой файл](https://github.com/nedilshod/KNOWLUMO/raw/refs/heads/arena/da8b0093-knowlumo/output/shorts/CSCA_Math_01_Sets_Shorts_1080x1920.mp4)
+- [Метаданные длинного видео](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/episode01/VIDEO_01_EN.txt) · [метаданные Shorts](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/shorts/SHORTS_01_EN.txt) · [тайминги](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/shorts/timeline.json)
+- [Исходный урок без изменений](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/sources/Youtube-arena-01b47ded-youtube/csca/episode01/output/CSCA_Math_01_Sets_Full.mp4) · [архив предыдущего проекта](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/Youtube-arena-01b47ded-youtube.zip)
+- [Локальная страница-превью](https://github.com/nedilshod/KNOWLUMO/blob/arena/da8b0093-knowlumo/output/index.html)
 
 Это внутренние примечания на русском. Все публичные материалы канала — названия, описания, текст в видео, озвучка и субтитры — на английском.
 
