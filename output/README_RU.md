@@ -45,6 +45,7 @@
 - `publication/COPY_PASTE_EN.md` — финальные тексты для YouTube и Instagram: названия, описания, теги, хэштеги, bio, About, плейлисты, закреплённые комментарии и первый анонс.
 - `publication/LAUNCH_NOTES_RU.md` — порядок запуска, ограничения полей и чек-лист ручных проверок.
 - `publication/STYLE_REFERENCE_RU.md` — разбор визуального референса Brain Station Advanced и рекомендации для Knowlumo.
+- `publication/FUTURE_COURSE_STYLE_RU.md` — переиспользуемые правила object-first стиля для будущих курсов по математике и, возможно, физике.
 - `publication/instagram_reels_cover_1080x1920.png` и `instagram_feed_cover_1080x1080.png` — вертикальная и квадратная обложки для Reels/ленты.
 - `index.html` — локальная страница-превью с видео и обложкой.
 

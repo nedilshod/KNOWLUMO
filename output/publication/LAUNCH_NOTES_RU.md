@@ -22,6 +22,7 @@
 - [`instagram_feed_cover_1080x1080.png`](instagram_feed_cover_1080x1080.png) — квадратная версия для превью в ленте.
 - [`verification.json`](verification.json) — автоматическая проверка длин полей и отсутствия выдуманных URL/дат.
 - [`STYLE_REFERENCE_RU.md`](STYLE_REFERENCE_RU.md) — разбор визуального референса Brain Station Advanced: что можно адаптировать без копирования.
+- [`FUTURE_COURSE_STYLE_RU.md`](FUTURE_COURSE_STYLE_RU.md) — правила object-first стиля для будущих курсов; текущий Episode 01 не переделывается.
 
 Горизонтальную обложку `CSCA_Math_01_Sets_Thumbnail_1280x720.png` используйте для **длинного видео**. Для Reels/Shorts нужна вертикальная обложка, иначе важный текст обрежется.
 
