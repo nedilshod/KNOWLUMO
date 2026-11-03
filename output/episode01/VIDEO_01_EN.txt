@@ -1,0 +1,29 @@
+Suggested title:
+CSCA Math #01: Sets Made Simple | Intersection, Union & Practice
+
+Suggested description:
+Learn the language of sets from the ground up: elements, membership, order and repetition, Venn diagrams, intersection, union, the empty set, and an original multiple-choice question with a worked solution. This full visual lesson includes English narration, animated examples, and word-by-word captions.
+
+The updated video ends with a Knowlumo subscribe card. The subscribe graphic is artwork, not a clickable YouTube end screen. Any real end screen or related-video feature must be configured separately in YouTube Studio after publication, if the feature is available.
+
+Chapters (approximate; verify after upload):
+00:00 The language of sets
+00:29 What is a set?
+01:03 Membership
+01:34 Two important rules
+02:07 The Venn diagram
+02:36 Intersection
+03:08 Union
+03:38 The empty set
+04:13 Practice question
+04:52 The solution
+05:30 Knowlumo outro
+
+Files:
+Full video: CSCA_Math_01_Sets_Full_With_Outro.mp4
+Thumbnail: CSCA_Math_01_Sets_Thumbnail_1280x720.png / .jpg
+Original lesson: preserved separately in sources/Youtube-arena-01b47ded-youtube/csca/episode01/output/CSCA_Math_01_Sets_Full.mp4
+
+Caption timing follows the recorded narration and should be reviewed by eye and ear before publishing. This is independent educational material, not an official CSCA past-paper question and not an official CSCA channel. Exam and university requirements may change; check the latest official syllabus and the requirements of your intended university.
+
+#CSCAMath #SetTheory #MathLessons #Knowlumo

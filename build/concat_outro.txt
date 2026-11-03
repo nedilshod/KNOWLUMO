@@ -1,0 +1,2 @@
+file '/home/user/KNOWLUMO/sources/Youtube-arena-01b47ded-youtube/csca/episode01/output/CSCA_Math_01_Sets_Full.mp4'
+file '/home/user/KNOWLUMO/output/episode01/CSCA_Math_01_Sets_Outro.mp4'

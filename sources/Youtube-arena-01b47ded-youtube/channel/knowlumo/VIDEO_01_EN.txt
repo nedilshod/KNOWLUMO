@@ -1,0 +1,20 @@
+Suggested title:
+CSCA Math #01: Sets, Intersection & Union | Beginner Lesson
+
+Suggested description:
+What is a set? Learn about elements, membership, Venn diagrams, intersections, unions and the empty set through step-by-step visual examples. Then try an original multiple-choice question and follow the solution.
+
+00:00 The language of sets
+00:29 What is a set?
+01:03 Membership
+01:34 Two important rules
+02:07 The Venn diagram
+02:36 Intersection
+03:08 Union
+03:38 The empty set
+04:13 Practice question
+04:52 The solution
+
+Chapters are approximate; check after uploading. This is independently produced educational material, not an official past-paper question or an official CSCA channel. Check the latest official syllabus and your intended university's requirements.
+
+#CSCAMath #SetTheory #MathLessons

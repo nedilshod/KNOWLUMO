@@ -1,0 +1,1356 @@
+{
+  "total_duration": 55.186462585034015,
+  "fps": 30,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "voice": "voice-00 (new English voice selected in this session; not claimed to be the old narrator)",
+  "caption_alignment": "energy-envelope estimate per generated WAV; approximate, not ASR forced alignment",
+  "segments": [
+    {
+      "key": "hook",
+      "clip": "01_hook.wav",
+      "visual": "hook",
+      "pause": 0.5,
+      "chime": false,
+      "text": "Two sets. Two quick questions. Set A is one, two, three. Set B is two, three, four.",
+      "start": 0.6,
+      "end": 9.342312925170068,
+      "duration": 8.742312925170069,
+      "local_words": [
+        {
+          "word": "Two",
+          "start": 0.12000000000000001,
+          "end": 0.4
+        },
+        {
+          "word": "sets.",
+          "start": 0.4,
+          "end": 1.4199999570846558
+        },
+        {
+          "word": "Two",
+          "start": 1.4199999570846558,
+          "end": 1.71
+        },
+        {
+          "word": "quick",
+          "start": 1.71,
+          "end": 1.99
+        },
+        {
+          "word": "questions.",
+          "start": 1.99,
+          "end": 3.179999828338623
+        },
+        {
+          "word": "Set",
+          "start": 3.179999828338623,
+          "end": 3.43999981880188
+        },
+        {
+          "word": "A",
+          "start": 3.43999981880188,
+          "end": 4.03
+        },
+        {
+          "word": "is",
+          "start": 4.03,
+          "end": 4.3100000000000005
+        },
+        {
+          "word": "one,",
+          "start": 4.3100000000000005,
+          "end": 4.6000000000000005
+        },
+        {
+          "word": "two,",
+          "start": 4.6000000000000005,
+          "end": 5.029999732971191
+        },
+        {
+          "word": "three.",
+          "start": 5.029999732971191,
+          "end": 5.819999694824219
+        },
+        {
+          "word": "Set",
+          "start": 5.819999694824219,
+          "end": 6.17
+        },
+        {
+          "word": "B",
+          "start": 6.17,
+          "end": 6.44
+        },
+        {
+          "word": "is",
+          "start": 6.44,
+          "end": 7.12
+        },
+        {
+          "word": "two,",
+          "start": 7.12,
+          "end": 7.59
+        },
+        {
+          "word": "three,",
+          "start": 7.59,
+          "end": 8.010000228881836
+        },
+        {
+          "word": "four.",
+          "start": 8.010000228881836,
+          "end": 8.49
+        }
+      ]
+    },
+    {
+      "key": "q1",
+      "clip": "02_q1.wav",
+      "visual": "q1",
+      "pause": 2.2,
+      "chime": false,
+      "text": "Question one. What is A intersection B?",
+      "start": 9.842312925170068,
+      "end": 13.673605442176871,
+      "duration": 3.8312925170068026,
+      "local_words": [
+        {
+          "word": "Question",
+          "start": 0.09,
+          "end": 0.61
+        },
+        {
+          "word": "one.",
+          "start": 0.61,
+          "end": 1.5299999713897705
+        },
+        {
+          "word": "What",
+          "start": 1.5299999713897705,
+          "end": 2.02
+        },
+        {
+          "word": "is",
+          "start": 2.02,
+          "end": 2.35
+        },
+        {
+          "word": "A",
+          "start": 2.35,
+          "end": 2.73
+        },
+        {
+          "word": "intersection",
+          "start": 2.73,
+          "end": 3.2800000000000002
+        },
+        {
+          "word": "B?",
+          "start": 3.2800000000000002,
+          "end": 3.62
+        }
+      ]
+    },
+    {
+      "key": "a1",
+      "clip": "03_a1.wav",
+      "visual": "a1",
+      "pause": 0.6,
+      "chime": true,
+      "text": "The answer is two, three. Intersection means elements in both sets.",
+      "start": 15.87360544217687,
+      "end": 21.968843537414966,
+      "duration": 6.095238095238095,
+      "local_words": [
+        {
+          "word": "The",
+          "start": 0.18000000000000002,
+          "end": 0.52
+        },
+        {
+          "word": "answer",
+          "start": 0.52,
+          "end": 0.9
+        },
+        {
+          "word": "is",
+          "start": 0.9,
+          "end": 1.09
+        },
+        {
+          "word": "two,",
+          "start": 1.09,
+          "end": 1.87
+        },
+        {
+          "word": "three.",
+          "start": 1.87,
+          "end": 2.73
+        },
+        {
+          "word": "Intersection",
+          "start": 2.73,
+          "end": 3.7600000000000002
+        },
+        {
+          "word": "means",
+          "start": 3.7600000000000002,
+          "end": 4.07
+        },
+        {
+          "word": "elements",
+          "start": 4.07,
+          "end": 4.5
+        },
+        {
+          "word": "in",
+          "start": 4.5,
+          "end": 4.86
+        },
+        {
+          "word": "both",
+          "start": 4.86,
+          "end": 5.119999885559082
+        },
+        {
+          "word": "sets.",
+          "start": 5.119999885559082,
+          "end": 5.6499999999999995
+        }
+      ]
+    },
+    {
+      "key": "q2",
+      "clip": "04_q2.wav",
+      "visual": "q2",
+      "pause": 2.2,
+      "chime": false,
+      "text": "Question two. What is A union B?",
+      "start": 22.568843537414963,
+      "end": 25.45972789115646,
+      "duration": 2.8908843537414968,
+      "local_words": [
+        {
+          "word": "Question",
+          "start": 0.12000000000000001,
+          "end": 0.53
+        },
+        {
+          "word": "two.",
+          "start": 0.53,
+          "end": 0.8199999928474426
+        },
+        {
+          "word": "What",
+          "start": 0.8199999928474426,
+          "end": 1.7
+        },
+        {
+          "word": "is",
+          "start": 1.7,
+          "end": 1.97
+        },
+        {
+          "word": "A",
+          "start": 1.97,
+          "end": 2.055
+        },
+        {
+          "word": "union",
+          "start": 2.055,
+          "end": 2.44
+        },
+        {
+          "word": "B?",
+          "start": 2.44,
+          "end": 2.68
+        }
+      ]
+    },
+    {
+      "key": "a2",
+      "clip": "05_a2.wav",
+      "visual": "a2",
+      "pause": 0.6,
+      "chime": true,
+      "text": "The answer is one, two, three, four. Union includes each element once.",
+      "start": 27.65972789115646,
+      "end": 33.673696145124715,
+      "duration": 6.013968253968254,
+      "local_words": [
+        {
+          "word": "The",
+          "start": 0.21000000000000002,
+          "end": 0.52
+        },
+        {
+          "word": "answer",
+          "start": 0.52,
+          "end": 0.87
+        },
+        {
+          "word": "is",
+          "start": 0.87,
+          "end": 1.32
+        },
+        {
+          "word": "one,",
+          "start": 1.32,
+          "end": 1.899999976158142
+        },
+        {
+          "word": "two,",
+          "start": 1.899999976158142,
+          "end": 2.2100000381469727
+        },
+        {
+          "word": "three,",
+          "start": 2.2100000381469727,
+          "end": 3.18999981880188
+        },
+        {
+          "word": "four.",
+          "start": 3.18999981880188,
+          "end": 3.83
+        },
+        {
+          "word": "Union",
+          "start": 3.83,
+          "end": 4.2700000000000005
+        },
+        {
+          "word": "includes",
+          "start": 4.2700000000000005,
+          "end": 4.68
+        },
+        {
+          "word": "each",
+          "start": 4.68,
+          "end": 4.92
+        },
+        {
+          "word": "element",
+          "start": 4.92,
+          "end": 5.32
+        },
+        {
+          "word": "once.",
+          "start": 5.32,
+          "end": 5.739999999999999
+        }
+      ]
+    },
+    {
+      "key": "q3",
+      "clip": "06_q3.wav",
+      "visual": "q3",
+      "pause": 1.8,
+      "chime": false,
+      "text": "Last check. Is four in A intersection B?",
+      "start": 34.27369614512472,
+      "end": 37.89600907029479,
+      "duration": 3.622312925170068,
+      "local_words": [
+        {
+          "word": "Last",
+          "start": 0.13,
+          "end": 0.44
+        },
+        {
+          "word": "check.",
+          "start": 0.44,
+          "end": 1.6400000000000001
+        },
+        {
+          "word": "Is",
+          "start": 1.6400000000000001,
+          "end": 1.87
+        },
+        {
+          "word": "four",
+          "start": 1.87,
+          "end": 2.16
+        },
+        {
+          "word": "in",
+          "start": 2.16,
+          "end": 2.44
+        },
+        {
+          "word": "A",
+          "start": 2.44,
+          "end": 2.58
+        },
+        {
+          "word": "intersection",
+          "start": 2.58,
+          "end": 3.11
+        },
+        {
+          "word": "B?",
+          "start": 3.11,
+          "end": 3.39
+        }
+      ]
+    },
+    {
+      "key": "a3",
+      "clip": "07_a3.wav",
+      "visual": "a3",
+      "pause": 0.6,
+      "chime": true,
+      "text": "No. Four is only in B, not in both sets.",
+      "start": 39.696009070294785,
+      "end": 44.16585034013605,
+      "duration": 4.46984126984127,
+      "local_words": [
+        {
+          "word": "No.",
+          "start": 0.09999999999999999,
+          "end": 0.42
+        },
+        {
+          "word": "Four",
+          "start": 0.42,
+          "end": 1.24
+        },
+        {
+          "word": "is",
+          "start": 1.24,
+          "end": 1.48
+        },
+        {
+          "word": "only",
+          "start": 1.48,
+          "end": 1.79
+        },
+        {
+          "word": "in",
+          "start": 1.79,
+          "end": 2.0100000000000002
+        },
+        {
+          "word": "B,",
+          "start": 2.0100000000000002,
+          "end": 2.240000009536743
+        },
+        {
+          "word": "not",
+          "start": 2.240000009536743,
+          "end": 2.98
+        },
+        {
+          "word": "in",
+          "start": 2.98,
+          "end": 3.33
+        },
+        {
+          "word": "both",
+          "start": 3.33,
+          "end": 3.679999828338623
+        },
+        {
+          "word": "sets.",
+          "start": 3.679999828338623,
+          "end": 4.199999999999999
+        }
+      ]
+    },
+    {
+      "key": "cta",
+      "clip": "08_cta.wav",
+      "visual": "cta",
+      "pause": 2.0,
+      "chime": true,
+      "text": "Want the full lesson and more practice? Watch CSCA Math Episode One, Sets Made Simple, on Knowlumo.",
+      "start": 44.765850340136055,
+      "end": 52.486485260770976,
+      "duration": 7.720634920634921,
+      "local_words": [
+        {
+          "word": "Want",
+          "start": 0.21000000000000002,
+          "end": 0.5
+        },
+        {
+          "word": "the",
+          "start": 0.5,
+          "end": 0.87
+        },
+        {
+          "word": "full",
+          "start": 0.87,
+          "end": 1.1
+        },
+        {
+          "word": "lesson",
+          "start": 1.1,
+          "end": 1.4299999475479126
+        },
+        {
+          "word": "and",
+          "start": 1.4299999475479126,
+          "end": 1.82
+        },
+        {
+          "word": "more",
+          "start": 1.82,
+          "end": 2.7200000286102295
+        },
+        {
+          "word": "practice?",
+          "start": 2.7200000286102295,
+          "end": 3.18
+        },
+        {
+          "word": "Watch",
+          "start": 3.18,
+          "end": 3.54
+        },
+        {
+          "word": "CSCA",
+          "start": 3.54,
+          "end": 3.869999885559082
+        },
+        {
+          "word": "Math",
+          "start": 3.869999885559082,
+          "end": 4.17
+        },
+        {
+          "word": "Episode",
+          "start": 4.17,
+          "end": 4.62
+        },
+        {
+          "word": "One,",
+          "start": 4.62,
+          "end": 5.299999713897705
+        },
+        {
+          "word": "Sets",
+          "start": 5.299999713897705,
+          "end": 5.71
+        },
+        {
+          "word": "Made",
+          "start": 5.71,
+          "end": 5.949999809265137
+        },
+        {
+          "word": "Simple,",
+          "start": 5.949999809265137,
+          "end": 6.7700000000000005
+        },
+        {
+          "word": "on",
+          "start": 6.7700000000000005,
+          "end": 7.1000000000000005
+        },
+        {
+          "word": "Knowlumo.",
+          "start": 7.1000000000000005,
+          "end": 7.5
+        }
+      ]
+    }
+  ],
+  "global_words": [
+    {
+      "word": "Two",
+      "start": 0.72,
+      "end": 1.0,
+      "segment": "hook"
+    },
+    {
+      "word": "sets.",
+      "start": 1.0,
+      "end": 2.019999957084656,
+      "segment": "hook"
+    },
+    {
+      "word": "Two",
+      "start": 2.019999957084656,
+      "end": 2.31,
+      "segment": "hook"
+    },
+    {
+      "word": "quick",
+      "start": 2.31,
+      "end": 2.59,
+      "segment": "hook"
+    },
+    {
+      "word": "questions.",
+      "start": 2.59,
+      "end": 3.779999828338623,
+      "segment": "hook"
+    },
+    {
+      "word": "Set",
+      "start": 3.779999828338623,
+      "end": 4.0399998188018795,
+      "segment": "hook"
+    },
+    {
+      "word": "A",
+      "start": 4.0399998188018795,
+      "end": 4.63,
+      "segment": "hook"
+    },
+    {
+      "word": "is",
+      "start": 4.63,
+      "end": 4.91,
+      "segment": "hook"
+    },
+    {
+      "word": "one,",
+      "start": 4.91,
+      "end": 5.2,
+      "segment": "hook"
+    },
+    {
+      "word": "two,",
+      "start": 5.2,
+      "end": 5.629999732971191,
+      "segment": "hook"
+    },
+    {
+      "word": "three.",
+      "start": 5.629999732971191,
+      "end": 6.419999694824218,
+      "segment": "hook"
+    },
+    {
+      "word": "Set",
+      "start": 6.419999694824218,
+      "end": 6.77,
+      "segment": "hook"
+    },
+    {
+      "word": "B",
+      "start": 6.77,
+      "end": 7.04,
+      "segment": "hook"
+    },
+    {
+      "word": "is",
+      "start": 7.04,
+      "end": 7.72,
+      "segment": "hook"
+    },
+    {
+      "word": "two,",
+      "start": 7.72,
+      "end": 8.19,
+      "segment": "hook"
+    },
+    {
+      "word": "three,",
+      "start": 8.19,
+      "end": 8.610000228881836,
+      "segment": "hook"
+    },
+    {
+      "word": "four.",
+      "start": 8.610000228881836,
+      "end": 9.09,
+      "segment": "hook"
+    },
+    {
+      "word": "Question",
+      "start": 9.932312925170068,
+      "end": 10.452312925170068,
+      "segment": "q1"
+    },
+    {
+      "word": "one.",
+      "start": 10.452312925170068,
+      "end": 11.372312896559839,
+      "segment": "q1"
+    },
+    {
+      "word": "What",
+      "start": 11.372312896559839,
+      "end": 11.862312925170068,
+      "segment": "q1"
+    },
+    {
+      "word": "is",
+      "start": 11.862312925170068,
+      "end": 12.192312925170068,
+      "segment": "q1"
+    },
+    {
+      "word": "A",
+      "start": 12.192312925170068,
+      "end": 12.572312925170069,
+      "segment": "q1"
+    },
+    {
+      "word": "intersection",
+      "start": 12.572312925170069,
+      "end": 13.122312925170068,
+      "segment": "q1"
+    },
+    {
+      "word": "B?",
+      "start": 13.122312925170068,
+      "end": 13.462312925170068,
+      "segment": "q1"
+    },
+    {
+      "word": "The",
+      "start": 16.05360544217687,
+      "end": 16.39360544217687,
+      "segment": "a1"
+    },
+    {
+      "word": "answer",
+      "start": 16.39360544217687,
+      "end": 16.77360544217687,
+      "segment": "a1"
+    },
+    {
+      "word": "is",
+      "start": 16.77360544217687,
+      "end": 16.96360544217687,
+      "segment": "a1"
+    },
+    {
+      "word": "two,",
+      "start": 16.96360544217687,
+      "end": 17.74360544217687,
+      "segment": "a1"
+    },
+    {
+      "word": "three.",
+      "start": 17.74360544217687,
+      "end": 18.60360544217687,
+      "segment": "a1"
+    },
+    {
+      "word": "Intersection",
+      "start": 18.60360544217687,
+      "end": 19.633605442176872,
+      "segment": "a1"
+    },
+    {
+      "word": "means",
+      "start": 19.633605442176872,
+      "end": 19.94360544217687,
+      "segment": "a1"
+    },
+    {
+      "word": "elements",
+      "start": 19.94360544217687,
+      "end": 20.37360544217687,
+      "segment": "a1"
+    },
+    {
+      "word": "in",
+      "start": 20.37360544217687,
+      "end": 20.73360544217687,
+      "segment": "a1"
+    },
+    {
+      "word": "both",
+      "start": 20.73360544217687,
+      "end": 20.993605327735953,
+      "segment": "a1"
+    },
+    {
+      "word": "sets.",
+      "start": 20.993605327735953,
+      "end": 21.52360544217687,
+      "segment": "a1"
+    },
+    {
+      "word": "Question",
+      "start": 22.688843537414964,
+      "end": 23.098843537414965,
+      "segment": "q2"
+    },
+    {
+      "word": "two.",
+      "start": 23.098843537414965,
+      "end": 23.388843530262406,
+      "segment": "q2"
+    },
+    {
+      "word": "What",
+      "start": 23.388843530262406,
+      "end": 24.268843537414963,
+      "segment": "q2"
+    },
+    {
+      "word": "is",
+      "start": 24.268843537414963,
+      "end": 24.538843537414962,
+      "segment": "q2"
+    },
+    {
+      "word": "A",
+      "start": 24.538843537414962,
+      "end": 24.623843537414963,
+      "segment": "q2"
+    },
+    {
+      "word": "union",
+      "start": 24.623843537414963,
+      "end": 25.008843537414965,
+      "segment": "q2"
+    },
+    {
+      "word": "B?",
+      "start": 25.008843537414965,
+      "end": 25.248843537414963,
+      "segment": "q2"
+    },
+    {
+      "word": "The",
+      "start": 27.86972789115646,
+      "end": 28.17972789115646,
+      "segment": "a2"
+    },
+    {
+      "word": "answer",
+      "start": 28.17972789115646,
+      "end": 28.529727891156462,
+      "segment": "a2"
+    },
+    {
+      "word": "is",
+      "start": 28.529727891156462,
+      "end": 28.97972789115646,
+      "segment": "a2"
+    },
+    {
+      "word": "one,",
+      "start": 28.97972789115646,
+      "end": 29.559727867314603,
+      "segment": "a2"
+    },
+    {
+      "word": "two,",
+      "start": 29.559727867314603,
+      "end": 29.869727929303433,
+      "segment": "a2"
+    },
+    {
+      "word": "three,",
+      "start": 29.869727929303433,
+      "end": 30.84972770995834,
+      "segment": "a2"
+    },
+    {
+      "word": "four.",
+      "start": 30.84972770995834,
+      "end": 31.489727891156463,
+      "segment": "a2"
+    },
+    {
+      "word": "Union",
+      "start": 31.489727891156463,
+      "end": 31.92972789115646,
+      "segment": "a2"
+    },
+    {
+      "word": "includes",
+      "start": 31.92972789115646,
+      "end": 32.33972789115646,
+      "segment": "a2"
+    },
+    {
+      "word": "each",
+      "start": 32.33972789115646,
+      "end": 32.57972789115646,
+      "segment": "a2"
+    },
+    {
+      "word": "element",
+      "start": 32.57972789115646,
+      "end": 32.97972789115646,
+      "segment": "a2"
+    },
+    {
+      "word": "once.",
+      "start": 32.97972789115646,
+      "end": 33.39972789115646,
+      "segment": "a2"
+    },
+    {
+      "word": "Last",
+      "start": 34.40369614512472,
+      "end": 34.713696145124715,
+      "segment": "q3"
+    },
+    {
+      "word": "check.",
+      "start": 34.713696145124715,
+      "end": 35.91369614512472,
+      "segment": "q3"
+    },
+    {
+      "word": "Is",
+      "start": 35.91369614512472,
+      "end": 36.143696145124714,
+      "segment": "q3"
+    },
+    {
+      "word": "four",
+      "start": 36.143696145124714,
+      "end": 36.43369614512471,
+      "segment": "q3"
+    },
+    {
+      "word": "in",
+      "start": 36.43369614512471,
+      "end": 36.713696145124715,
+      "segment": "q3"
+    },
+    {
+      "word": "A",
+      "start": 36.713696145124715,
+      "end": 36.853696145124715,
+      "segment": "q3"
+    },
+    {
+      "word": "intersection",
+      "start": 36.853696145124715,
+      "end": 37.383696145124716,
+      "segment": "q3"
+    },
+    {
+      "word": "B?",
+      "start": 37.383696145124716,
+      "end": 37.66369614512472,
+      "segment": "q3"
+    },
+    {
+      "word": "No.",
+      "start": 39.79600907029479,
+      "end": 40.11600907029479,
+      "segment": "a3"
+    },
+    {
+      "word": "Four",
+      "start": 40.11600907029479,
+      "end": 40.93600907029479,
+      "segment": "a3"
+    },
+    {
+      "word": "is",
+      "start": 40.93600907029479,
+      "end": 41.17600907029478,
+      "segment": "a3"
+    },
+    {
+      "word": "only",
+      "start": 41.17600907029478,
+      "end": 41.486009070294784,
+      "segment": "a3"
+    },
+    {
+      "word": "in",
+      "start": 41.486009070294784,
+      "end": 41.70600907029478,
+      "segment": "a3"
+    },
+    {
+      "word": "B,",
+      "start": 41.70600907029478,
+      "end": 41.93600907983153,
+      "segment": "a3"
+    },
+    {
+      "word": "not",
+      "start": 41.93600907983153,
+      "end": 42.67600907029478,
+      "segment": "a3"
+    },
+    {
+      "word": "in",
+      "start": 42.67600907029478,
+      "end": 43.02600907029478,
+      "segment": "a3"
+    },
+    {
+      "word": "both",
+      "start": 43.02600907029478,
+      "end": 43.37600889863341,
+      "segment": "a3"
+    },
+    {
+      "word": "sets.",
+      "start": 43.37600889863341,
+      "end": 43.89600907029478,
+      "segment": "a3"
+    },
+    {
+      "word": "Want",
+      "start": 44.975850340136056,
+      "end": 45.265850340136055,
+      "segment": "cta"
+    },
+    {
+      "word": "the",
+      "start": 45.265850340136055,
+      "end": 45.63585034013605,
+      "segment": "cta"
+    },
+    {
+      "word": "full",
+      "start": 45.63585034013605,
+      "end": 45.865850340136056,
+      "segment": "cta"
+    },
+    {
+      "word": "lesson",
+      "start": 45.865850340136056,
+      "end": 46.19585028768397,
+      "segment": "cta"
+    },
+    {
+      "word": "and",
+      "start": 46.19585028768397,
+      "end": 46.585850340136055,
+      "segment": "cta"
+    },
+    {
+      "word": "more",
+      "start": 46.585850340136055,
+      "end": 47.485850368746284,
+      "segment": "cta"
+    },
+    {
+      "word": "practice?",
+      "start": 47.485850368746284,
+      "end": 47.945850340136055,
+      "segment": "cta"
+    },
+    {
+      "word": "Watch",
+      "start": 47.945850340136055,
+      "end": 48.305850340136054,
+      "segment": "cta"
+    },
+    {
+      "word": "CSCA",
+      "start": 48.305850340136054,
+      "end": 48.63585022569514,
+      "segment": "cta"
+    },
+    {
+      "word": "Math",
+      "start": 48.63585022569514,
+      "end": 48.93585034013606,
+      "segment": "cta"
+    },
+    {
+      "word": "Episode",
+      "start": 48.93585034013606,
+      "end": 49.38585034013605,
+      "segment": "cta"
+    },
+    {
+      "word": "One,",
+      "start": 49.38585034013605,
+      "end": 50.06585005403376,
+      "segment": "cta"
+    },
+    {
+      "word": "Sets",
+      "start": 50.06585005403376,
+      "end": 50.475850340136056,
+      "segment": "cta"
+    },
+    {
+      "word": "Made",
+      "start": 50.475850340136056,
+      "end": 50.71585014940119,
+      "segment": "cta"
+    },
+    {
+      "word": "Simple,",
+      "start": 50.71585014940119,
+      "end": 51.53585034013606,
+      "segment": "cta"
+    },
+    {
+      "word": "on",
+      "start": 51.53585034013606,
+      "end": 51.865850340136056,
+      "segment": "cta"
+    },
+    {
+      "word": "Knowlumo.",
+      "start": 51.865850340136056,
+      "end": 52.265850340136055,
+      "segment": "cta"
+    }
+  ],
+  "caption_groups": [
+    {
+      "indices": [
+        0,
+        1
+      ],
+      "start": 0.72,
+      "end": 2.019999957084656,
+      "segment": "hook"
+    },
+    {
+      "indices": [
+        2,
+        3,
+        4
+      ],
+      "start": 2.019999957084656,
+      "end": 3.779999828338623,
+      "segment": "hook"
+    },
+    {
+      "indices": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "start": 3.779999828338623,
+      "end": 6.419999694824218,
+      "segment": "hook"
+    },
+    {
+      "indices": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "start": 6.419999694824218,
+      "end": 9.09,
+      "segment": "hook"
+    },
+    {
+      "indices": [
+        17,
+        18
+      ],
+      "start": 9.932312925170068,
+      "end": 11.372312896559839,
+      "segment": "q1"
+    },
+    {
+      "indices": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "start": 11.372312896559839,
+      "end": 13.462312925170068,
+      "segment": "q1"
+    },
+    {
+      "indices": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "start": 16.05360544217687,
+      "end": 18.60360544217687,
+      "segment": "a1"
+    },
+    {
+      "indices": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "start": 18.60360544217687,
+      "end": 21.52360544217687,
+      "segment": "a1"
+    },
+    {
+      "indices": [
+        35,
+        36
+      ],
+      "start": 22.688843537414964,
+      "end": 23.388843530262406,
+      "segment": "q2"
+    },
+    {
+      "indices": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "start": 23.388843530262406,
+      "end": 25.248843537414963,
+      "segment": "q2"
+    },
+    {
+      "indices": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "start": 27.86972789115646,
+      "end": 31.489727891156463,
+      "segment": "a2"
+    },
+    {
+      "indices": [
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "start": 31.489727891156463,
+      "end": 33.39972789115646,
+      "segment": "a2"
+    },
+    {
+      "indices": [
+        54,
+        55
+      ],
+      "start": 34.40369614512472,
+      "end": 35.91369614512472,
+      "segment": "q3"
+    },
+    {
+      "indices": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "start": 35.91369614512472,
+      "end": 37.66369614512472,
+      "segment": "q3"
+    },
+    {
+      "indices": [
+        62
+      ],
+      "start": 39.79600907029479,
+      "end": 40.11600907029479,
+      "segment": "a3"
+    },
+    {
+      "indices": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "start": 40.11600907029479,
+      "end": 43.02600907029478,
+      "segment": "a3"
+    },
+    {
+      "indices": [
+        70,
+        71
+      ],
+      "start": 43.02600907029478,
+      "end": 43.89600907029478,
+      "segment": "a3"
+    },
+    {
+      "indices": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "start": 44.975850340136056,
+      "end": 47.945850340136055,
+      "segment": "cta"
+    },
+    {
+      "indices": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "start": 47.945850340136055,
+      "end": 50.71585014940119,
+      "segment": "cta"
+    },
+    {
+      "indices": [
+        86,
+        87,
+        88
+      ],
+      "start": 50.71585014940119,
+      "end": 52.265850340136055,
+      "segment": "cta"
+    }
+  ],
+  "math": {
+    "A": [
+      1,
+      2,
+      3
+    ],
+    "B": [
+      2,
+      3,
+      4
+    ],
+    "intersection": [
+      2,
+      3
+    ],
+    "union": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "four_in_intersection": false
+  },
+  "cta": {
+    "uses_real_thumbnail": true,
+    "burned_in_url": false,
+    "clickable_link_claim": false
+  }
+}
