@@ -1,0 +1,157 @@
+{
+  "status": "passed",
+  "file": "CSCA_Math_02_Subsets_Complements_Animated.mp4",
+  "stream": {
+    "h264": true,
+    "aac": true,
+    "1280x720": true,
+    "30_fps": true,
+    "44100_hz": true,
+    "stereo": true
+  },
+  "full_decode": true,
+  "timeline": {
+    "fps": 30,
+    "duration": 300.0,
+    "resolution": [
+      1280,
+      720
+    ],
+    "chapters": 10,
+    "semantic_beats": 79,
+    "answer_reveal_at": 259.384,
+    "practice_question_end": 238.574,
+    "caption_safe_zone": [
+      80,
+      608,
+      1200,
+      694
+    ],
+    "no_future_words": true,
+    "last_group_holds": true,
+    "answer_hidden_until_solution": true,
+    "no_invented_url": true
+  },
+  "motion": {
+    "sample_fps": 10,
+    "sample_resolution": [
+      320,
+      180
+    ],
+    "decoded_frames": 3000,
+    "compared_pairs": 2999,
+    "overall_mean_frame_diff": 0.329,
+    "overall_p95_frame_diff": 0.984,
+    "duplicate_frame_ratio": 0.0,
+    "scenes": [
+      {
+        "scene": 1,
+        "title": "SETS INSIDE SETS",
+        "samples": 298,
+        "mean_frame_diff": 0.243,
+        "p95_frame_diff": 0.973,
+        "max_frame_diff": 1.622,
+        "continuous_motion_ratio": 0.319,
+        "semantic_peak_ratio": 0.218
+      },
+      {
+        "scene": 2,
+        "title": "WHAT IS A SUBSET?",
+        "samples": 314,
+        "mean_frame_diff": 0.24,
+        "p95_frame_diff": 0.842,
+        "max_frame_diff": 9.49,
+        "continuous_motion_ratio": 0.331,
+        "semantic_peak_ratio": 0.188
+      },
+      {
+        "scene": 3,
+        "title": "PROPER SUBSETS",
+        "samples": 283,
+        "mean_frame_diff": 0.241,
+        "p95_frame_diff": 0.901,
+        "max_frame_diff": 3.996,
+        "continuous_motion_ratio": 0.353,
+        "semantic_peak_ratio": 0.191
+      },
+      {
+        "scene": 4,
+        "title": "THE TWO SYMBOLS",
+        "samples": 273,
+        "mean_frame_diff": 0.234,
+        "p95_frame_diff": 1.02,
+        "max_frame_diff": 1.39,
+        "continuous_motion_ratio": 0.297,
+        "semantic_peak_ratio": 0.198
+      },
+      {
+        "scene": 5,
+        "title": "COMPLEMENTS AND U",
+        "samples": 282,
+        "mean_frame_diff": 0.248,
+        "p95_frame_diff": 0.957,
+        "max_frame_diff": 10.746,
+        "continuous_motion_ratio": 0.33,
+        "semantic_peak_ratio": 0.167
+      },
+      {
+        "scene": 6,
+        "title": "THE VENN DIAGRAM",
+        "samples": 265,
+        "mean_frame_diff": 0.569,
+        "p95_frame_diff": 1.481,
+        "max_frame_diff": 49.016,
+        "continuous_motion_ratio": 0.445,
+        "semantic_peak_ratio": 0.275
+      },
+      {
+        "scene": 7,
+        "title": "SET DIFFERENCE",
+        "samples": 265,
+        "mean_frame_diff": 0.245,
+        "p95_frame_diff": 0.88,
+        "max_frame_diff": 1.148,
+        "continuous_motion_ratio": 0.592,
+        "semantic_peak_ratio": 0.185
+      },
+      {
+        "scene": 8,
+        "title": "PRACTICE QUESTION",
+        "samples": 394,
+        "mean_frame_diff": 0.178,
+        "p95_frame_diff": 0.734,
+        "max_frame_diff": 11.959,
+        "continuous_motion_ratio": 0.213,
+        "semantic_peak_ratio": 0.114
+      },
+      {
+        "scene": 9,
+        "title": "THE SOLUTION",
+        "samples": 274,
+        "mean_frame_diff": 0.201,
+        "p95_frame_diff": 0.837,
+        "max_frame_diff": 2.381,
+        "continuous_motion_ratio": 0.314,
+        "semantic_peak_ratio": 0.161
+      },
+      {
+        "scene": 10,
+        "title": "RECAP AND OUTRO",
+        "samples": 246,
+        "mean_frame_diff": 0.261,
+        "p95_frame_diff": 1.008,
+        "max_frame_diff": 6.238,
+        "continuous_motion_ratio": 0.317,
+        "semantic_peak_ratio": 0.207
+      }
+    ]
+  },
+  "manual_checks_pending": [
+    "by-eye/by-ear playback of subtitle timing and short words",
+    "sentence endings and scene transitions in a real player",
+    "readability of formulas and captions on a phone",
+    "platform UI overlay after upload",
+    "real end screen / related video setup after publication"
+  ],
+  "published": false
+}

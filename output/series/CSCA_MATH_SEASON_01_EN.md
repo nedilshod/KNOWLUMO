@@ -41,6 +41,6 @@ The earlier `sources/Youtube-arena-01b47ded-youtube/csca/CURRICULUM.md` contains
 ## Status
 
 - Episode 01: complete, pushed, verified.
-- Episode 02: five-minute English draft built and verified; not published.
+- Episode 02: animation-rich five-minute English draft built and programmatically verified; not published.
 - Episodes 03–12: planned, not built.
 - No episode has been uploaded to YouTube or Instagram by this agent.

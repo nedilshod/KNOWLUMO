@@ -48,6 +48,8 @@
 - `publication/FUTURE_COURSE_STYLE_RU.md` — переиспользуемые правила object-first стиля для будущих курсов по математике и, возможно, физике.
 - `series/CSCA_MATH_SEASON_01_EN.md` — план Сезона 1 из 12 выпусков.
 - `episode02/CSCA_Math_02_Subsets_Complements_Draft.mp4` — пятиминутный черновик Episode 02.
+- `episode02/CSCA_Math_02_Subsets_Complements_Animated.mp4` — версия с развитой смысловой анимацией.
+- `episode02/ANIMATION_MAP_RU.md` — карта визуальных действий по фразам диктора.
 - `publication/instagram_reels_cover_1080x1920.png` и `instagram_feed_cover_1080x1080.png` — вертикальная и квадратная обложки для Reels/ленты.
 - `index.html` — локальная страница-превью с видео и обложкой.
 

@@ -14,6 +14,7 @@ Episode 01 delivery:
 - `output/publication/FUTURE_COURSE_STYLE_RU.md` — reusable object-first style rules for future math/physics courses.
 - `output/series/CSCA_MATH_SEASON_01_EN.md` — 12-episode Season 1 plan.
 - `output/episode02/CSCA_Math_02_Subsets_Complements_Draft.mp4` — five-minute Episode 02 draft.
+- `output/episode02/CSCA_Math_02_Subsets_Complements_Animated.mp4` — animation-rich Episode 02 draft.
 - `output/README_RU.md` — delivery notes and review checklist in Russian.
 
 The original previous-project archive is kept at the repository root, and its extracted sources are preserved under `sources/`. No YouTube or Instagram publication is automated here.
