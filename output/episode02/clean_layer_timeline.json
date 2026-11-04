@@ -1,0 +1,222 @@
+{
+  "status": "animated draft",
+  "episode": 2,
+  "title": "Subsets & Complements",
+  "target_duration": 300.0,
+  "fps": 30,
+  "resolution": [
+    1280,
+    720
+  ],
+  "voice": "voice-01 (owner-selected; not a clone of the source narrator)",
+  "tempo_adjustment": 1.055,
+  "visual_beats": [
+    {
+      "title": 9.08,
+      "nested": 9.699999618530274,
+      "goal1": 15.000000000000002,
+      "goal2": 15.620000000000001,
+      "goal3": 18.03,
+      "small": 23.810000000000002,
+      "large": 26.18
+    },
+    {
+      "def": 30.360793650793653,
+      "a_nums": 39.170793650793655,
+      "b_nums": 41.88079365079365,
+      "move": 45.15079365079365,
+      "extra": 52.200793650793656,
+      "empty": 54.43079365079365,
+      "every": 56.390793650793654
+    },
+    {
+      "proper": 67.90517008710069,
+      "four_new": 75.66517006802721,
+      "equal": 77.77517044949693,
+      "not_proper": 80.50517006802721,
+      "underline": 83.8001700680272,
+      "strict": 86.9251700680272,
+      "excludes": 89.13517006802721
+    },
+    {
+      "subseteq": 92.9344217687075,
+      "subsetneq": 96.47442176870749,
+      "plain": 99.6844217687075,
+      "check_def": 102.59442108206198,
+      "missing": 113.47442176870749,
+      "false": 115.00442176870749
+    },
+    {
+      "u": 118.83108843537417,
+      "u_nums": 124.47108843537417,
+      "a_group": 128.73108843537418,
+      "comp": 131.49108843537417,
+      "remove": 144.09108843537416,
+      "remains": 142.781087290965
+    },
+    {
+      "rect": 147.2609523666473,
+      "circle": 149.1309523809524,
+      "shade": 150.010952247438,
+      "never": 157.93095238095242,
+      "merge": 159.32095219021755,
+      "whole": 160.4709523809524,
+      "boundary": 167.8209523809524
+    },
+    {
+      "diff": 172.68310657596376,
+      "aminusb": 175.15310657596376,
+      "keep": 176.91310657596375,
+      "notin": 179.03310657596376,
+      "result1": 185.27310657596377,
+      "result2": 186.77310657596377,
+      "u_remind": 192.68310657596376,
+      "order": 198.13310657596378
+    },
+    {
+      "practice": 200.13188208616785,
+      "u": 202.2018820575576,
+      "a": 207.55188208616784,
+      "b": 212.26188223875573,
+      "question": 215.00188208616785,
+      "opt_a": 216.87188208616783,
+      "opt_b": 220.50188208616785,
+      "opt_c": 226.0018820098739,
+      "opt_d": 229.52188056028893,
+      "pause": 232.82188208616785,
+      "choose": 237.31188208616783
+    },
+    {
+      "check": 238.79362811791387,
+      "row_a": 241.01362811791387,
+      "one": 243.19362811791387,
+      "row_b": 245.44362811791387,
+      "true": 249.6036282323548,
+      "row_c": 250.71362788903204,
+      "not23": 252.47362811791388,
+      "row_d": 253.69362743126837,
+      "four": 257.0336275838563,
+      "answer": 259.383627965326,
+      "u_compare": 262.2436281179139
+    },
+    {
+      "recap": 266.4356009070295,
+      "subset": 268.4156008021253,
+      "comp": 269.63560090702947,
+      "diff": 274.1156009070295,
+      "next": 278.9956009070295,
+      "intervals": 281.38560090702947,
+      "thanks": 283.1256006018537,
+      "subscribe": 285.26559999150214,
+      "explore": 288.3756009070295
+    }
+  ],
+  "chapters": [
+    {
+      "index": 1,
+      "title": "SETS INSIDE SETS",
+      "start": 0.3,
+      "end": 30.021,
+      "duration": 29.721
+    },
+    {
+      "index": 2,
+      "title": "WHAT IS A SUBSET?",
+      "start": 30.171,
+      "end": 61.525,
+      "duration": 31.354
+    },
+    {
+      "index": 3,
+      "title": "PROPER SUBSETS",
+      "start": 61.675,
+      "end": 89.974,
+      "duration": 28.299
+    },
+    {
+      "index": 4,
+      "title": "THE TWO SYMBOLS",
+      "start": 90.124,
+      "end": 117.431,
+      "duration": 27.307
+    },
+    {
+      "index": 5,
+      "title": "COMPLEMENTS AND U",
+      "start": 117.581,
+      "end": 145.721,
+      "duration": 28.14
+    },
+    {
+      "index": 6,
+      "title": "THE VENN DIAGRAM",
+      "start": 145.871,
+      "end": 172.373,
+      "duration": 26.502
+    },
+    {
+      "index": 7,
+      "title": "SET DIFFERENCE",
+      "start": 172.523,
+      "end": 199.022,
+      "duration": 26.499
+    },
+    {
+      "index": 8,
+      "title": "PRACTICE QUESTION",
+      "start": 199.172,
+      "end": 238.574,
+      "duration": 39.402
+    },
+    {
+      "index": 9,
+      "title": "THE SOLUTION",
+      "start": 238.724,
+      "end": 266.156,
+      "duration": 27.432
+    },
+    {
+      "index": 10,
+      "title": "RECAP AND OUTRO",
+      "start": 266.306,
+      "end": 290.946,
+      "duration": 24.641
+    }
+  ],
+  "outro_start": 290.946,
+  "practice_question_end": 238.574,
+  "solution_scene_start": 238.724,
+  "answer_reveal_at": 259.384,
+  "caption_safe_zone": [
+    80,
+    608,
+    1200,
+    694
+  ],
+  "checks": {
+    "no_future_words": true,
+    "last_group_holds": true,
+    "answer_hidden_until_solution": true,
+    "semantic_beats_from_wav": true,
+    "true_30fps_motion": "verified by frame-difference script"
+  },
+  "published": false,
+  "file": "CSCA_Math_02_Subsets_Complements_Clean.mp4",
+  "clean_layers": {
+    "background_source": "procedural grid only",
+    "ai_photo_background_in_video": false,
+    "opaque_panels": true,
+    "clipped_objects": true,
+    "translucent_effects_on_separate_layers": true,
+    "circular_avatar_mask": true,
+    "z_index_order": [
+      "background",
+      "main_panel",
+      "nested_panels",
+      "objects",
+      "labels",
+      "outro",
+      "captions"
+    ]
+  }
+}

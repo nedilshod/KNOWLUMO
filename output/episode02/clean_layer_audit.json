@@ -1,0 +1,8940 @@
+{
+  "status": "passed",
+  "file": "CSCA_Math_02_Subsets_Complements_Clean.mp4",
+  "main_panel": [
+    80,
+    180,
+    1200,
+    600
+  ],
+  "caption_top": 608,
+  "checked_objects": 525,
+  "violations": 0,
+  "checks": [
+    {
+      "scene": 1,
+      "label": "main panel",
+      "rect": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "parent": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "UNIVERSAL BOX",
+      "rect": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        140,
+        270,
+        700,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        140,
+        270,
+        700,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        140,
+        270,
+        700,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        140,
+        270,
+        700,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "U card 1",
+      "rect": [
+        170,
+        460,
+        217,
+        507
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "U card 2",
+      "rect": [
+        340,
+        460,
+        387,
+        507
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "U card 3",
+      "rect": [
+        510,
+        460,
+        557,
+        507
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "U card 4",
+      "rect": [
+        680,
+        460,
+        727,
+        507
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "U card 5",
+      "rect": [
+        850,
+        460,
+        897,
+        507
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "U card 6",
+      "rect": [
+        1020,
+        460,
+        1067,
+        507
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "chip SUBSET",
+      "rect": [
+        180,
+        553,
+        300,
+        597
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "chip COMPLEMENT",
+      "rect": [
+        550,
+        553,
+        730,
+        597
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "chip PRACTICE",
+      "rect": [
+        971,
+        553,
+        1109,
+        597
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        145,
+        270,
+        705,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        145,
+        270,
+        705,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        145,
+        270,
+        705,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        145,
+        270,
+        705,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        150,
+        270,
+        710,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        150,
+        270,
+        710,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        150,
+        270,
+        710,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        150,
+        270,
+        710,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        155,
+        270,
+        715,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        155,
+        270,
+        715,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        155,
+        270,
+        715,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        155,
+        270,
+        715,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        159,
+        270,
+        719,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        159,
+        270,
+        719,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        159,
+        270,
+        719,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        159,
+        270,
+        719,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        163,
+        270,
+        723,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        163,
+        270,
+        723,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        163,
+        270,
+        723,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        163,
+        270,
+        723,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        167,
+        270,
+        727,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        167,
+        270,
+        727,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        167,
+        270,
+        727,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        167,
+        270,
+        727,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        171,
+        270,
+        731,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        171,
+        270,
+        731,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        171,
+        270,
+        731,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        171,
+        270,
+        731,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        174,
+        270,
+        734,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        174,
+        270,
+        734,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        174,
+        270,
+        734,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        174,
+        270,
+        734,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        177,
+        270,
+        737,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        177,
+        270,
+        737,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        177,
+        270,
+        737,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        177,
+        270,
+        737,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        180,
+        270,
+        740,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        180,
+        270,
+        740,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        180,
+        270,
+        740,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        180,
+        270,
+        740,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        182,
+        270,
+        742,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        182,
+        270,
+        742,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        182,
+        270,
+        742,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        182,
+        270,
+        742,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        185,
+        270,
+        745,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        185,
+        270,
+        745,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        185,
+        270,
+        745,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        185,
+        270,
+        745,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        187,
+        270,
+        747,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        187,
+        270,
+        747,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        187,
+        270,
+        747,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        187,
+        270,
+        747,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        189,
+        270,
+        749,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        189,
+        270,
+        749,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        189,
+        270,
+        749,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        189,
+        270,
+        749,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        190,
+        270,
+        750,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        190,
+        270,
+        750,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        190,
+        270,
+        750,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        190,
+        270,
+        750,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        192,
+        270,
+        752,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        192,
+        270,
+        752,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        192,
+        270,
+        752,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        192,
+        270,
+        752,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        193,
+        270,
+        753,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        193,
+        270,
+        753,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        193,
+        270,
+        753,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        193,
+        270,
+        753,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        194,
+        270,
+        754,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        194,
+        270,
+        754,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        194,
+        270,
+        754,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        194,
+        270,
+        754,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        195,
+        270,
+        755,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        195,
+        270,
+        755,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        195,
+        270,
+        755,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        195,
+        270,
+        755,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        196,
+        270,
+        756,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        196,
+        270,
+        756,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        196,
+        270,
+        756,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        196,
+        270,
+        756,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        197,
+        270,
+        757,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        197,
+        270,
+        757,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        197,
+        270,
+        757,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        197,
+        270,
+        757,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        198,
+        270,
+        758,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        198,
+        270,
+        758,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        198,
+        270,
+        758,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        198,
+        270,
+        758,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        199,
+        270,
+        759,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        199,
+        270,
+        759,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        199,
+        270,
+        759,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        199,
+        270,
+        759,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "SMALLER SET",
+      "rect": [
+        200,
+        270,
+        760,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 1",
+      "rect": [
+        260,
+        330,
+        311,
+        381
+      ],
+      "parent": [
+        200,
+        270,
+        760,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 2",
+      "rect": [
+        400,
+        330,
+        451,
+        381
+      ],
+      "parent": [
+        200,
+        270,
+        760,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 1,
+      "label": "A card 3",
+      "rect": [
+        540,
+        330,
+        591,
+        381
+      ],
+      "parent": [
+        200,
+        270,
+        760,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "main panel",
+      "rect": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "parent": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "B",
+      "rect": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "A",
+      "rect": [
+        160,
+        270,
+        720,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "A card 1",
+      "rect": [
+        230,
+        330,
+        292,
+        392
+      ],
+      "parent": [
+        160,
+        270,
+        720,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "A card 2",
+      "rect": [
+        380,
+        330,
+        442,
+        392
+      ],
+      "parent": [
+        160,
+        270,
+        720,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "A card 3",
+      "rect": [
+        530,
+        330,
+        592,
+        392
+      ],
+      "parent": [
+        160,
+        270,
+        720,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "B card 1",
+      "rect": [
+        180,
+        460,
+        237,
+        517
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "B card 2",
+      "rect": [
+        400,
+        460,
+        457,
+        517
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "B card 3",
+      "rect": [
+        620,
+        460,
+        677,
+        517
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "B card 4",
+      "rect": [
+        840,
+        460,
+        897,
+        517
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        238,
+        338,
+        295,
+        395
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        388,
+        338,
+        445,
+        395
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        538,
+        338,
+        595,
+        395
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "\u2205",
+      "rect": [
+        900,
+        250,
+        1140,
+        400
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        236,
+        343,
+        293,
+        400
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        389,
+        343,
+        446,
+        400
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        542,
+        343,
+        599,
+        400
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        232,
+        353,
+        289,
+        410
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        390,
+        353,
+        447,
+        410
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        549,
+        353,
+        606,
+        410
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        228,
+        363,
+        285,
+        420
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        392,
+        363,
+        449,
+        420
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        555,
+        363,
+        612,
+        420
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        225,
+        372,
+        282,
+        429
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        393,
+        372,
+        450,
+        429
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        562,
+        372,
+        619,
+        429
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        222,
+        381,
+        279,
+        438
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        395,
+        381,
+        452,
+        438
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        568,
+        381,
+        625,
+        438
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        218,
+        389,
+        275,
+        446
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        396,
+        389,
+        453,
+        446
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        573,
+        389,
+        630,
+        446
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        216,
+        396,
+        273,
+        453
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        397,
+        396,
+        454,
+        453
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        578,
+        396,
+        635,
+        453
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        213,
+        403,
+        270,
+        460
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        398,
+        403,
+        455,
+        460
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        583,
+        403,
+        640,
+        460
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        210,
+        410,
+        267,
+        467
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        399,
+        410,
+        456,
+        467
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        588,
+        410,
+        645,
+        467
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        208,
+        416,
+        265,
+        473
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        400,
+        416,
+        457,
+        473
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        592,
+        416,
+        649,
+        473
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        206,
+        422,
+        263,
+        479
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        401,
+        422,
+        458,
+        479
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        596,
+        422,
+        653,
+        479
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        204,
+        427,
+        261,
+        484
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        402,
+        427,
+        459,
+        484
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        600,
+        427,
+        657,
+        484
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        202,
+        432,
+        259,
+        489
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        402,
+        432,
+        459,
+        489
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        603,
+        432,
+        660,
+        489
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        200,
+        436,
+        257,
+        493
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        403,
+        436,
+        460,
+        493
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        606,
+        436,
+        663,
+        493
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        199,
+        440,
+        256,
+        497
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        404,
+        440,
+        461,
+        497
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        609,
+        440,
+        666,
+        497
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        197,
+        444,
+        254,
+        501
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        404,
+        444,
+        461,
+        501
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        611,
+        444,
+        668,
+        501
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        196,
+        447,
+        253,
+        504
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        405,
+        447,
+        462,
+        504
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        614,
+        447,
+        671,
+        504
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        195,
+        450,
+        252,
+        507
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        405,
+        450,
+        462,
+        507
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        616,
+        450,
+        673,
+        507
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        194,
+        453,
+        251,
+        510
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        406,
+        453,
+        463,
+        510
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        618,
+        453,
+        675,
+        510
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        193,
+        455,
+        250,
+        512
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        406,
+        455,
+        463,
+        512
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        619,
+        455,
+        676,
+        512
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        192,
+        458,
+        249,
+        515
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        406,
+        458,
+        463,
+        515
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        621,
+        458,
+        678,
+        515
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        191,
+        459,
+        248,
+        516
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        407,
+        459,
+        464,
+        516
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        622,
+        459,
+        679,
+        516
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        191,
+        461,
+        248,
+        518
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        407,
+        461,
+        464,
+        518
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        623,
+        461,
+        680,
+        518
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        190,
+        463,
+        247,
+        520
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        407,
+        463,
+        464,
+        520
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        624,
+        463,
+        681,
+        520
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        190,
+        464,
+        247,
+        521
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        407,
+        464,
+        464,
+        521
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        625,
+        464,
+        682,
+        521
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        189,
+        465,
+        246,
+        522
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        408,
+        465,
+        465,
+        522
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        626,
+        465,
+        683,
+        522
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        189,
+        466,
+        246,
+        523
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        408,
+        466,
+        465,
+        523
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        626,
+        466,
+        683,
+        523
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        627,
+        466,
+        684,
+        523
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        188,
+        467,
+        245,
+        524
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        408,
+        467,
+        465,
+        524
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        627,
+        467,
+        684,
+        524
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 1",
+      "rect": [
+        188,
+        468,
+        245,
+        525
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 2",
+      "rect": [
+        408,
+        468,
+        465,
+        525
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "moving 3",
+      "rect": [
+        628,
+        468,
+        685,
+        525
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "mark check",
+      "rect": [
+        1002,
+        407,
+        1038,
+        443
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 2,
+      "label": "chip SUBSET OF EVERY SET",
+      "rect": [
+        906,
+        448,
+        1134,
+        492
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "main panel",
+      "rect": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "parent": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "B",
+      "rect": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "A",
+      "rect": [
+        160,
+        270,
+        720,
+        430
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "A card 1",
+      "rect": [
+        230,
+        330,
+        292,
+        392
+      ],
+      "parent": [
+        160,
+        270,
+        720,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "A card 2",
+      "rect": [
+        380,
+        330,
+        442,
+        392
+      ],
+      "parent": [
+        160,
+        270,
+        720,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "A card 3",
+      "rect": [
+        530,
+        330,
+        592,
+        392
+      ],
+      "parent": [
+        160,
+        270,
+        720,
+        430
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        760,
+        390,
+        824,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "A = B",
+      "rect": [
+        820,
+        250,
+        1120,
+        330
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "\u2286  CONTAINED OR EQUAL",
+      "rect": [
+        180,
+        460,
+        520,
+        540
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "\u228a  STRICTLY SMALLER",
+      "rect": [
+        560,
+        460,
+        900,
+        540
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "chip EQUALITY EXCLUDED",
+      "rect": [
+        925,
+        478,
+        1155,
+        522
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        761,
+        390,
+        825,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        780,
+        390,
+        844,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        798,
+        390,
+        862,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        815,
+        390,
+        879,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        831,
+        390,
+        895,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        846,
+        390,
+        910,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        860,
+        390,
+        924,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        873,
+        390,
+        937,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        885,
+        390,
+        949,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        896,
+        390,
+        960,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        906,
+        390,
+        970,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        915,
+        390,
+        979,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        924,
+        390,
+        988,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        931,
+        390,
+        995,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        938,
+        390,
+        1002,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        945,
+        390,
+        1009,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        950,
+        390,
+        1014,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        955,
+        390,
+        1019,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        960,
+        390,
+        1024,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        963,
+        390,
+        1027,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        967,
+        390,
+        1031,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        970,
+        390,
+        1034,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        972,
+        390,
+        1036,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        974,
+        390,
+        1038,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        976,
+        390,
+        1040,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        977,
+        390,
+        1041,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        978,
+        390,
+        1042,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        979,
+        390,
+        1043,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "moving 4",
+      "rect": [
+        980,
+        390,
+        1044,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 3,
+      "label": "mark cross",
+      "rect": [
+        946,
+        276,
+        994,
+        324
+      ],
+      "parent": [
+        820,
+        250,
+        1120,
+        330
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "main panel",
+      "rect": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "parent": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "CONTAINED OR EQUAL",
+      "rect": [
+        110,
+        210,
+        620,
+        500
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "STRICTLY SMALLER",
+      "rect": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "panel",
+      "rect": [
+        520,
+        515,
+        760,
+        585
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "mark check",
+      "rect": [
+        686,
+        536,
+        714,
+        564
+      ],
+      "parent": [
+        520,
+        515,
+        760,
+        585
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        700,
+        430,
+        727,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        731,
+        430,
+        758,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        770,
+        430,
+        797,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        805,
+        430,
+        832,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        838,
+        430,
+        865,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        868,
+        430,
+        895,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        895,
+        430,
+        922,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        920,
+        430,
+        947,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        943,
+        430,
+        970,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        963,
+        430,
+        990,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        981,
+        430,
+        1008,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        997,
+        430,
+        1024,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1012,
+        430,
+        1039,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1024,
+        430,
+        1051,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1035,
+        430,
+        1062,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1045,
+        430,
+        1072,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1053,
+        430,
+        1080,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1059,
+        430,
+        1086,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1065,
+        430,
+        1092,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1069,
+        430,
+        1096,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1073,
+        430,
+        1100,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1075,
+        430,
+        1102,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1077,
+        430,
+        1104,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1079,
+        430,
+        1106,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 4,
+      "label": "missing 1",
+      "rect": [
+        1080,
+        430,
+        1107,
+        457
+      ],
+      "parent": [
+        660,
+        210,
+        1170,
+        500
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "main panel",
+      "rect": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "parent": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "U = { 1, 2, 3, 4, 5, 6 }",
+      "rect": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "U card 1",
+      "rect": [
+        170,
+        280,
+        227,
+        337
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "U card 2",
+      "rect": [
+        330,
+        280,
+        387,
+        337
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "U card 3",
+      "rect": [
+        490,
+        280,
+        547,
+        337
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "U card 4",
+      "rect": [
+        650,
+        280,
+        707,
+        337
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "U card 5",
+      "rect": [
+        810,
+        280,
+        867,
+        337
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "U card 6",
+      "rect": [
+        970,
+        280,
+        1027,
+        337
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "A = { 1, 2, 3 }",
+      "rect": [
+        160,
+        390,
+        700,
+        540
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "A card 1",
+      "rect": [
+        230,
+        440,
+        276,
+        486
+      ],
+      "parent": [
+        160,
+        390,
+        700,
+        540
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "A card 2",
+      "rect": [
+        380,
+        440,
+        426,
+        486
+      ],
+      "parent": [
+        160,
+        390,
+        700,
+        540
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "A card 3",
+      "rect": [
+        530,
+        440,
+        576,
+        486
+      ],
+      "parent": [
+        160,
+        390,
+        700,
+        540
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "A\u1d9c = { 4, 5, 6 }",
+      "rect": [
+        780,
+        390,
+        1140,
+        540
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        658,
+        288,
+        704,
+        334
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        818,
+        288,
+        864,
+        334
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        978,
+        288,
+        1024,
+        334
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        662,
+        292,
+        708,
+        338
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        821,
+        292,
+        867,
+        338
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        980,
+        292,
+        1026,
+        338
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        677,
+        305,
+        723,
+        351
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        832,
+        305,
+        878,
+        351
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        986,
+        305,
+        1032,
+        351
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        691,
+        317,
+        737,
+        363
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        841,
+        317,
+        887,
+        363
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        992,
+        317,
+        1038,
+        363
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        704,
+        329,
+        750,
+        375
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        851,
+        329,
+        897,
+        375
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        997,
+        329,
+        1043,
+        375
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        716,
+        340,
+        762,
+        386
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        859,
+        340,
+        905,
+        386
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1002,
+        340,
+        1048,
+        386
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        728,
+        350,
+        774,
+        396
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        868,
+        350,
+        914,
+        396
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1007,
+        350,
+        1053,
+        396
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        739,
+        359,
+        785,
+        405
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        875,
+        359,
+        921,
+        405
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1012,
+        359,
+        1058,
+        405
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        748,
+        368,
+        794,
+        414
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        882,
+        368,
+        928,
+        414
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1016,
+        368,
+        1062,
+        414
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        758,
+        376,
+        804,
+        422
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        889,
+        376,
+        935,
+        422
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1020,
+        376,
+        1066,
+        422
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        766,
+        383,
+        812,
+        429
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        895,
+        383,
+        941,
+        429
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1023,
+        383,
+        1069,
+        429
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        774,
+        390,
+        820,
+        436
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        900,
+        390,
+        946,
+        436
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1026,
+        390,
+        1072,
+        436
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        781,
+        397,
+        827,
+        443
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        905,
+        397,
+        951,
+        443
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1029,
+        397,
+        1075,
+        443
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        787,
+        402,
+        833,
+        448
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        910,
+        402,
+        956,
+        448
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1032,
+        402,
+        1078,
+        448
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        793,
+        408,
+        839,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        914,
+        408,
+        960,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1035,
+        408,
+        1081,
+        454
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        799,
+        412,
+        845,
+        458
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        918,
+        412,
+        964,
+        458
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1037,
+        412,
+        1083,
+        458
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        803,
+        416,
+        849,
+        462
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        921,
+        416,
+        967,
+        462
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1039,
+        416,
+        1085,
+        462
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        808,
+        420,
+        854,
+        466
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        924,
+        420,
+        970,
+        466
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1041,
+        420,
+        1087,
+        466
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        811,
+        424,
+        857,
+        470
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        927,
+        424,
+        973,
+        470
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1042,
+        424,
+        1088,
+        470
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        815,
+        426,
+        861,
+        472
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        929,
+        426,
+        975,
+        472
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1044,
+        426,
+        1090,
+        472
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        818,
+        429,
+        864,
+        475
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        931,
+        429,
+        977,
+        475
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1045,
+        429,
+        1091,
+        475
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        820,
+        431,
+        866,
+        477
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        933,
+        431,
+        979,
+        477
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1046,
+        431,
+        1092,
+        477
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        822,
+        433,
+        868,
+        479
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        935,
+        433,
+        981,
+        479
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1047,
+        433,
+        1093,
+        479
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        824,
+        435,
+        870,
+        481
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        936,
+        435,
+        982,
+        481
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1048,
+        435,
+        1094,
+        481
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        826,
+        436,
+        872,
+        482
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        937,
+        436,
+        983,
+        482
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1048,
+        436,
+        1094,
+        482
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        827,
+        437,
+        873,
+        483
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        938,
+        437,
+        984,
+        483
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1049,
+        437,
+        1095,
+        483
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        828,
+        438,
+        874,
+        484
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        938,
+        438,
+        984,
+        484
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1049,
+        438,
+        1095,
+        484
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        829,
+        439,
+        875,
+        485
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        939,
+        439,
+        985,
+        485
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1049,
+        439,
+        1095,
+        485
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1050,
+        439,
+        1096,
+        485
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        829,
+        440,
+        875,
+        486
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 5",
+      "rect": [
+        940,
+        440,
+        986,
+        486
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 6",
+      "rect": [
+        1050,
+        440,
+        1096,
+        486
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 5,
+      "label": "complement 4",
+      "rect": [
+        830,
+        440,
+        876,
+        486
+      ],
+      "parent": [
+        120,
+        210,
+        1160,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 6,
+      "label": "main panel",
+      "rect": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "parent": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 6,
+      "label": "U",
+      "rect": [
+        180,
+        210,
+        1100,
+        560
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 6,
+      "label": "shade rect",
+      "rect": [
+        180,
+        210,
+        1100,
+        560
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 6,
+      "label": "shade hole",
+      "rect": [
+        430,
+        260,
+        850,
+        500
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 6,
+      "label": "chip A \u2229 A\u1d9c = \u2205",
+      "rect": [
+        270,
+        503,
+        410,
+        547
+      ],
+      "parent": [
+        180,
+        210,
+        1100,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 6,
+      "label": "chip A \u222a A\u1d9c = U",
+      "rect": [
+        860,
+        503,
+        1000,
+        547
+      ],
+      "parent": [
+        180,
+        210,
+        1100,
+        560
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "main panel",
+      "rect": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "parent": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "circle A",
+      "rect": [
+        180,
+        220,
+        620,
+        500
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "circle B",
+      "rect": [
+        660,
+        220,
+        1100,
+        500
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "diff card 1",
+      "rect": [
+        260,
+        310,
+        306,
+        356
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "diff card 2",
+      "rect": [
+        540,
+        310,
+        586,
+        356
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "diff card 3",
+      "rect": [
+        700,
+        310,
+        746,
+        356
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "diff card 4",
+      "rect": [
+        940,
+        310,
+        986,
+        356
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "mark cross",
+      "rect": [
+        559,
+        329,
+        591,
+        361
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "mark cross",
+      "rect": [
+        719,
+        329,
+        751,
+        361
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "panel",
+      "rect": [
+        160,
+        510,
+        600,
+        575
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "panel",
+      "rect": [
+        680,
+        510,
+        1120,
+        575
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        260,
+        310,
+        285,
+        335
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        940,
+        310,
+        965,
+        335
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        256,
+        329,
+        281,
+        354
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        251,
+        350,
+        276,
+        375
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        246,
+        370,
+        271,
+        395
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        242,
+        389,
+        267,
+        414
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        238,
+        406,
+        263,
+        431
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        234,
+        421,
+        259,
+        446
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        231,
+        435,
+        256,
+        460
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        228,
+        448,
+        253,
+        473
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        225,
+        459,
+        250,
+        484
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        223,
+        469,
+        248,
+        494
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        221,
+        479,
+        246,
+        504
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        219,
+        487,
+        244,
+        512
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        217,
+        494,
+        242,
+        519
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        216,
+        500,
+        241,
+        525
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        215,
+        505,
+        240,
+        530
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        214,
+        510,
+        239,
+        535
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        213,
+        513,
+        238,
+        538
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        212,
+        517,
+        237,
+        542
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        211,
+        519,
+        236,
+        544
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        211,
+        521,
+        236,
+        546
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        211,
+        522,
+        236,
+        547
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        210,
+        523,
+        235,
+        548
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        210,
+        524,
+        235,
+        549
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 1",
+      "rect": [
+        210,
+        525,
+        235,
+        550
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        922,
+        329,
+        947,
+        354
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        901,
+        350,
+        926,
+        375
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        881,
+        370,
+        906,
+        395
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        863,
+        389,
+        888,
+        414
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        847,
+        406,
+        872,
+        431
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        832,
+        421,
+        857,
+        446
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        818,
+        435,
+        843,
+        460
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        805,
+        448,
+        830,
+        473
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        794,
+        459,
+        819,
+        484
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        784,
+        469,
+        809,
+        494
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        775,
+        479,
+        800,
+        504
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        767,
+        487,
+        792,
+        512
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        761,
+        494,
+        786,
+        519
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        755,
+        500,
+        780,
+        525
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        749,
+        505,
+        774,
+        530
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        745,
+        510,
+        770,
+        535
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        741,
+        513,
+        766,
+        538
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        738,
+        517,
+        763,
+        542
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        736,
+        519,
+        761,
+        544
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        734,
+        521,
+        759,
+        546
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        733,
+        522,
+        758,
+        547
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        731,
+        523,
+        756,
+        548
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        731,
+        524,
+        756,
+        549
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 7,
+      "label": "result 4",
+      "rect": [
+        730,
+        525,
+        755,
+        550
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "main panel",
+      "rect": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "parent": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "U card 1",
+      "rect": [
+        300,
+        205,
+        327,
+        232
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "U card 2",
+      "rect": [
+        415,
+        205,
+        442,
+        232
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "U card 3",
+      "rect": [
+        530,
+        205,
+        557,
+        232
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "U card 4",
+      "rect": [
+        645,
+        205,
+        672,
+        232
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "U card 5",
+      "rect": [
+        760,
+        205,
+        787,
+        232
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "U card 6",
+      "rect": [
+        875,
+        205,
+        902,
+        232
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "A = { 1, 2, 3 }",
+      "rect": [
+        150,
+        260,
+        620,
+        370
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "B = { 2, 3, 4 }",
+      "rect": [
+        660,
+        260,
+        1130,
+        370
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "A card 1",
+      "rect": [
+        220,
+        320,
+        244,
+        344
+      ],
+      "parent": [
+        150,
+        260,
+        620,
+        370
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "A card 2",
+      "rect": [
+        340,
+        320,
+        364,
+        344
+      ],
+      "parent": [
+        150,
+        260,
+        620,
+        370
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "A card 3",
+      "rect": [
+        460,
+        320,
+        484,
+        344
+      ],
+      "parent": [
+        150,
+        260,
+        620,
+        370
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "B card 2",
+      "rect": [
+        730,
+        320,
+        754,
+        344
+      ],
+      "parent": [
+        660,
+        260,
+        1130,
+        370
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "B card 3",
+      "rect": [
+        850,
+        320,
+        874,
+        344
+      ],
+      "parent": [
+        660,
+        260,
+        1130,
+        370
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "B card 4",
+      "rect": [
+        970,
+        320,
+        994,
+        344
+      ],
+      "parent": [
+        660,
+        260,
+        1130,
+        370
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "option A",
+      "rect": [
+        90,
+        420,
+        620,
+        480
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "option B",
+      "rect": [
+        660,
+        420,
+        1190,
+        480
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "option C",
+      "rect": [
+        90,
+        490,
+        620,
+        550
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "option D",
+      "rect": [
+        660,
+        490,
+        1190,
+        550
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 8,
+      "label": "chip PAUSE THE VIDEO TO SOLVE",
+      "rect": [
+        467,
+        548,
+        813,
+        592
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "main panel",
+      "rect": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "parent": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "row 1",
+      "rect": [
+        110,
+        205,
+        1170,
+        265
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "row 2",
+      "rect": [
+        110,
+        277,
+        1170,
+        337
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "row 3",
+      "rect": [
+        110,
+        349,
+        1170,
+        409
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "row 4",
+      "rect": [
+        110,
+        421,
+        1170,
+        481
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "VISUAL CHECK",
+      "rect": [
+        110,
+        500,
+        1170,
+        585
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "complement 4",
+      "rect": [
+        170,
+        525,
+        190,
+        545
+      ],
+      "parent": [
+        110,
+        500,
+        1170,
+        585
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "complement 5",
+      "rect": [
+        260,
+        525,
+        280,
+        545
+      ],
+      "parent": [
+        110,
+        500,
+        1170,
+        585
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "complement 6",
+      "rect": [
+        350,
+        525,
+        370,
+        545
+      ],
+      "parent": [
+        110,
+        500,
+        1170,
+        585
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "mark cross",
+      "rect": [
+        488,
+        536,
+        512,
+        560
+      ],
+      "parent": [
+        110,
+        500,
+        1170,
+        585
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "mark cross",
+      "rect": [
+        598,
+        536,
+        622,
+        560
+      ],
+      "parent": [
+        110,
+        500,
+        1170,
+        585
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "missing 1",
+      "rect": [
+        950,
+        525,
+        970,
+        545
+      ],
+      "parent": [
+        110,
+        500,
+        1170,
+        585
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "missing 4",
+      "rect": [
+        1030,
+        525,
+        1050,
+        545
+      ],
+      "parent": [
+        110,
+        500,
+        1170,
+        585
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "answer card",
+      "rect": [
+        470,
+        510,
+        810,
+        575
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "mark cross",
+      "rect": [
+        1116,
+        221,
+        1144,
+        249
+      ],
+      "parent": [
+        110,
+        205,
+        1170,
+        265
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "mark check",
+      "rect": [
+        1116,
+        293,
+        1144,
+        321
+      ],
+      "parent": [
+        110,
+        277,
+        1170,
+        337
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "mark cross",
+      "rect": [
+        1116,
+        365,
+        1144,
+        393
+      ],
+      "parent": [
+        110,
+        349,
+        1170,
+        409
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 9,
+      "label": "mark cross",
+      "rect": [
+        1116,
+        437,
+        1144,
+        465
+      ],
+      "parent": [
+        110,
+        421,
+        1170,
+        481
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "main panel",
+      "rect": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "parent": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "SUBSET",
+      "rect": [
+        100,
+        210,
+        420,
+        470
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "COMPLEMENT",
+      "rect": [
+        470,
+        210,
+        790,
+        470
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "DIFFERENCE",
+      "rect": [
+        840,
+        210,
+        1160,
+        470
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "U",
+      "rect": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "parent": [
+        100,
+        210,
+        420,
+        470
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        140,
+        340,
+        300,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "U",
+      "rect": [
+        500,
+        300,
+        760,
+        440
+      ],
+      "parent": [
+        470,
+        210,
+        790,
+        470
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "shade rect",
+      "rect": [
+        500,
+        300,
+        760,
+        440
+      ],
+      "parent": [
+        470,
+        210,
+        790,
+        470
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "shade hole",
+      "rect": [
+        560,
+        320,
+        700,
+        420
+      ],
+      "parent": [
+        470,
+        210,
+        790,
+        470
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "diff 1",
+      "rect": [
+        880,
+        330,
+        900,
+        350
+      ],
+      "parent": [
+        840,
+        210,
+        1160,
+        470
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "diff 2",
+      "rect": [
+        950,
+        330,
+        970,
+        350
+      ],
+      "parent": [
+        840,
+        210,
+        1160,
+        470
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "diff 3",
+      "rect": [
+        1020,
+        330,
+        1040,
+        350
+      ],
+      "parent": [
+        840,
+        210,
+        1160,
+        470
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "mark cross",
+      "rect": [
+        1008,
+        340,
+        1032,
+        364
+      ],
+      "parent": [
+        840,
+        210,
+        1160,
+        470
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "chip NEXT LESSON",
+      "rect": [
+        552,
+        488,
+        728,
+        532
+      ],
+      "parent": [
+        80,
+        180,
+        1200,
+        600
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        142,
+        340,
+        302,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        145,
+        340,
+        305,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        148,
+        340,
+        308,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        150,
+        340,
+        310,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        153,
+        340,
+        313,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        155,
+        340,
+        315,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        157,
+        340,
+        317,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        159,
+        340,
+        319,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        160,
+        340,
+        320,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        162,
+        340,
+        322,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        163,
+        340,
+        323,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        164,
+        340,
+        324,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        165,
+        340,
+        325,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        166,
+        340,
+        326,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        167,
+        340,
+        327,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        168,
+        340,
+        328,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        169,
+        340,
+        329,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    },
+    {
+      "scene": 10,
+      "label": "A",
+      "rect": [
+        170,
+        340,
+        330,
+        420
+      ],
+      "parent": [
+        130,
+        300,
+        390,
+        440
+      ],
+      "within_parent": true
+    }
+  ]
+}

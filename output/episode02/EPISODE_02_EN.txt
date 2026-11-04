@@ -33,9 +33,11 @@ If this helped, subscribe to Knowlumo for future visual lessons. Keep exploring,
 Tags (draft):
 CSCA Math, CSCA mathematics, CSCA exam, sets, set theory, subsets, proper subset, universal set, complement of a set, set difference, Venn diagram, set notation, math lesson, math tutorial, exam prep, visual math, Knowlumo
 
-Animated MP4: CSCA_Math_02_Subsets_Complements_Animated.mp4
+Clean MP4 (recommended): CSCA_Math_02_Subsets_Complements_Clean.mp4
+Earlier animation-rich MP4: CSCA_Math_02_Subsets_Complements_Animated.mp4
+Earlier static draft MP4: CSCA_Math_02_Subsets_Complements_Draft.mp4
 Thumbnail: CSCA_Math_02_Subsets_Complements_Thumbnail_1280x720.png / .jpg
 Playlist: CSCA Mathematics — Full Lessons
 Category: Education | Language: English
 
-Status: animation-rich five-minute draft, 300.00s, 1280x720, true 30 FPS, WAV-driven semantic beats. Not published. The earlier static draft is preserved separately. No invented URL, no official-CSCA claim, no promise that the practice question appears on an exam.
+Status: clean-layer five-minute draft, 300.00s, 1280x720, true 30 FPS, WAV-driven semantic beats. The earlier static and animation-rich drafts are preserved separately. Not published. No invented URL, no official-CSCA claim, no promise that the practice question appears on an exam.

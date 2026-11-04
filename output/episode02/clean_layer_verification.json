@@ -1,0 +1,176 @@
+{
+  "status": "passed",
+  "file": "CSCA_Math_02_Subsets_Complements_Clean.mp4",
+  "stream": {
+    "h264": true,
+    "aac": true,
+    "1280x720": true,
+    "30_fps": true,
+    "44100_hz": true,
+    "stereo": true
+  },
+  "full_decode": true,
+  "timeline": {
+    "fps": 30,
+    "duration": 300.0,
+    "resolution": [
+      1280,
+      720
+    ],
+    "chapters": 10,
+    "semantic_beats": 79,
+    "answer_reveal_at": 259.384,
+    "practice_question_end": 238.574,
+    "caption_safe_zone": [
+      80,
+      608,
+      1200,
+      694
+    ],
+    "no_future_words": true,
+    "last_group_holds": true,
+    "answer_hidden_until_solution": true,
+    "no_invented_url": true
+  },
+  "motion": {
+    "sample_fps": 10,
+    "sample_resolution": [
+      320,
+      180
+    ],
+    "decoded_frames": 3000,
+    "compared_pairs": 2999,
+    "overall_mean_frame_diff": 0.279,
+    "overall_p95_frame_diff": 0.977,
+    "duplicate_frame_ratio": 0.0,
+    "scenes": [
+      {
+        "scene": 1,
+        "title": "SETS INSIDE SETS",
+        "samples": 298,
+        "mean_frame_diff": 0.253,
+        "p95_frame_diff": 0.983,
+        "max_frame_diff": 2.091,
+        "continuous_motion_ratio": 0.396,
+        "semantic_peak_ratio": 0.221
+      },
+      {
+        "scene": 2,
+        "title": "WHAT IS A SUBSET?",
+        "samples": 314,
+        "mean_frame_diff": 0.233,
+        "p95_frame_diff": 0.834,
+        "max_frame_diff": 5.922,
+        "continuous_motion_ratio": 0.411,
+        "semantic_peak_ratio": 0.175
+      },
+      {
+        "scene": 3,
+        "title": "PROPER SUBSETS",
+        "samples": 283,
+        "mean_frame_diff": 0.23,
+        "p95_frame_diff": 0.914,
+        "max_frame_diff": 2.493,
+        "continuous_motion_ratio": 0.403,
+        "semantic_peak_ratio": 0.18
+      },
+      {
+        "scene": 4,
+        "title": "THE TWO SYMBOLS",
+        "samples": 273,
+        "mean_frame_diff": 0.227,
+        "p95_frame_diff": 1.038,
+        "max_frame_diff": 1.342,
+        "continuous_motion_ratio": 0.289,
+        "semantic_peak_ratio": 0.194
+      },
+      {
+        "scene": 5,
+        "title": "COMPLEMENTS AND U",
+        "samples": 282,
+        "mean_frame_diff": 0.251,
+        "p95_frame_diff": 0.954,
+        "max_frame_diff": 6.884,
+        "continuous_motion_ratio": 0.383,
+        "semantic_peak_ratio": 0.188
+      },
+      {
+        "scene": 6,
+        "title": "THE VENN DIAGRAM",
+        "samples": 265,
+        "mean_frame_diff": 0.322,
+        "p95_frame_diff": 1.1,
+        "max_frame_diff": 8.59,
+        "continuous_motion_ratio": 0.381,
+        "semantic_peak_ratio": 0.23
+      },
+      {
+        "scene": 7,
+        "title": "SET DIFFERENCE",
+        "samples": 265,
+        "mean_frame_diff": 0.218,
+        "p95_frame_diff": 0.877,
+        "max_frame_diff": 1.095,
+        "continuous_motion_ratio": 0.381,
+        "semantic_peak_ratio": 0.181
+      },
+      {
+        "scene": 8,
+        "title": "PRACTICE QUESTION",
+        "samples": 394,
+        "mean_frame_diff": 0.179,
+        "p95_frame_diff": 0.742,
+        "max_frame_diff": 6.409,
+        "continuous_motion_ratio": 0.312,
+        "semantic_peak_ratio": 0.119
+      },
+      {
+        "scene": 9,
+        "title": "THE SOLUTION",
+        "samples": 274,
+        "mean_frame_diff": 0.229,
+        "p95_frame_diff": 0.967,
+        "max_frame_diff": 1.336,
+        "continuous_motion_ratio": 0.372,
+        "semantic_peak_ratio": 0.19
+      },
+      {
+        "scene": 10,
+        "title": "RECAP AND OUTRO",
+        "samples": 246,
+        "mean_frame_diff": 0.24,
+        "p95_frame_diff": 1.018,
+        "max_frame_diff": 1.353,
+        "continuous_motion_ratio": 0.394,
+        "semantic_peak_ratio": 0.191
+      }
+    ]
+  },
+  "manual_checks_pending": [
+    "by-eye/by-ear playback of subtitle timing and short words",
+    "sentence endings and scene transitions in a real player",
+    "readability of formulas and captions on a phone",
+    "platform UI overlay after upload",
+    "real end screen / related video setup after publication"
+  ],
+  "published": false,
+  "layering": {
+    "procedural_background_only": true,
+    "no_ai_photo_background": true,
+    "opaque_panels": true,
+    "objects_inside_parents": true,
+    "translucent_shading_on_separate_layers": true,
+    "circular_avatar_mask": true,
+    "z_index_order": [
+      "background",
+      "main_panel",
+      "nested_panels",
+      "objects",
+      "labels",
+      "outro",
+      "captions"
+    ],
+    "checked_object_bounds": 525,
+    "bounds_violations": 0
+  }
+}
